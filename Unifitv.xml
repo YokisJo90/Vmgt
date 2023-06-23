@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TooFUN!">
+    <display-name lang="en">Too FUN!</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/463_144.png" />
+    <url>https://unifi.com.my/tv/tv-guide</url>
+  </channel>
+  <channel id="Siar">
+    <display-name lang="en">Siar</display-name>
+    <icon src="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" />
+    <url>https://unifi.com.my/tv/tv-guide</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="en">TV2 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
