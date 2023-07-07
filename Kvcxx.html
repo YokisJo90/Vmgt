@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+
+<head>
+
+</head>
+
+<body>
+
+                    <script type="text/javascript">
+
+
+                      let WapkaSiteAPI = {
+    apikey: "81677:lghj780teekv0f3e8emeg2epsb",
+    endpoint: 'https://api.wapka.org/',
+    request: function(method, callback, param=null){
+    const xhr = new XMLHttpRequest();
+     xhr.onload = function() {
+      callback(JSON.parse(this.responseText));
+     };
+	xhr.open("POST", this.endpoint + method);
+	xhr.setRequestHeader("apikey", this.apikey);
+      if(param instanceof FormData){
+        xhr.setRequestHeader("Content-Type", "multipart/form-data");
+        xhr.send(param);
+      }else if(typeof param == "object"){
+        xhr.setRequestHeader("Content-type", "application/json");
+        xhr.send(JSON.stringify(param));
+      }else{
+        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+        xhr.send(param);
+      }
+    },
+    GetMe: function(callback, param=null) {
+      return this.request("GetMe", callback, param);
+    },
+    LogOut: function(callback, param=null) {
+      return this.request("LogOut", callback, param);
+    },
+    UserCreator: function(callback, param) {
+      return this.request("UserCreator", callback, param);
+    },
+    UserInfo: function(callback, param=null) {
+      return this.request("UserInfo", callback, param);
+    },
+    UserLogin: function(callback, param=null) {
+      return this.request("UserLogin", callback, param);
+    },
+    UserOnline: function(callback, param=null) {
+      return this.request("UserOnline", callback, param);
+    },
+    UserEdit: function up(callback, param=null) {
+      return this.request("UserEdit", callback, param);
+    },
+    MessageCreator: function(callback, param=null) {
+      return this.request("MessageCreator", callback, param);
+    },
+    MessageInfo: function(callback, param=null) {
+      return this.request("MessageInfo", callback, param);
+    },
+    MessageEdit: function(callback, param=null) {
+      return this.request("MessageEdit", callback, param);
+    },
+    FolderCreator: function(callback, param=null) {
+      return this.request("FolderCreator", callback, param);
+    },
+    FolderEdit: function(callback, param=null) {
+      return this.request("FolderEdit", callback, param);
+    },
+    FolderInfo: function(callback, param=null) {
+      return this.request("FolderInfo", callback, param);
+    },
+    FileCreator: function(callback, param=null) {
+      return this.request("FileCreator", callback, param);
+    },
+    FileInfo: function(callback, param=null) {
+      return this.request("FileInfo", callback, param);
+    },
+    FileEdit: function(callback, param=null) {
+      return this.request("FileEdit", callback, param);
+    },
+    ForumCreator: function(callback, param=null) {
+      return this.request("ForumCreator", callback, param);
+    },
+    ForumEdit: function(callback, param=null) {
+      return this.request("<!DOCTYPE html>
+
+<head>
+
+</head>
+
+<body>
+
+                    <script type="text/javascript">
+
+
+                      let WapkaSiteAPI = {
+    apikey: "81677:lghj780teekv0f3e8emeg2epsb",
+    endpoint: 'https://api.wapka.org/',
+    request: function(method, callback, param=null){
+    const xhr = new XMLHttpRequest();
+     xhr.onload = function() {
+      callback(JSON.parse(this.responseText));
+     };
+	xhr.open("POST", this.endpoint + method);
+	xhr.setRequestHeader("apikey", this.apikey);
+      if(param instanceof FormData){
+        xhr.setRequestHeader("Content-Type", "multipart/form-data");
+        xhr.send(param);
+      }else if(typeof param == "object"){
+        xhr.setRequestHeader("Content-type", "application/json");
+        xhr.send(JSON.stringify(param));
+      }else{
+        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+        xhr.send(param);
+      }
+    },
+    GetMe: function(callback, param=null) {
+      return this.request("GetMe", callback, param);
+    },
+    LogOut: function(callback, param=null) {
+      return this.request("LogOut", callback, param);
+    },
+    UserCreator: function(callback, param) {
+      return this.request("UserCreator", callback, param);
+    },
+    UserInfo: function(callback, param=null) {
+      return this.request("UserInfo", callback, param);
+    },
+    UserLogin: function(callback, param=null) {
+      return this.request("UserLogin", callback, param);
+    },
+    UserOnline: function(callback, param=null) {
+      return this.request("UserOnline", callback, param);
+    },
+    UserEdit: function up(callback, param=null) {
+      return this.request("UserEdit", callback, param);
+    },
+    MessageCreator: function(callback, param=null) {
+      return this.request("MessageCreator", callback, param);
+    },
+    MessageInfo: function(callback, param=null) {
+      return this.request("MessageInfo", callback, param);
+    },
+    MessageEdit: function(callback, param=null) {
+      return this.request("MessageEdit", callback, param);
+    },
+    FolderCreator: function(callback, param=null) {
+      return this.request("FolderCreator", callback, param);
+    },
+    FolderEdit: function(callback, param=null) {
+      return this.request("FolderEdit", callback, param);
+    },
+    FolderInfo: function(callback, param=null) {
+      return this.request("FolderInfo", callback, param);
+    },
+    FileCreator: function(callback, param=null) {
+      return this.request("FileCreator", callback, param);
+    },
+    FileInfo: function(callback, param=null) {
+      return this.request("FileInfo", callback, param);
+    },
+    FileEdit: function(callback, param=null) {
+      return this.request("FileEdit", callback, param);
+    },
+    ForumCreator: function(callback, param=null) {
+      return this.request("ForumCreator", callback, param);
+    },
+    ForumEdit: function(callback, param=null) {
+      return this.request("ForumEdit", callback, param);
+    },
+ForumEdit", callback, param);
+    },
+    ForumInfo: function(callback, param=null) {
+      return this.request("ForumInfo", callback, param);
+    },
+    PostCreator: function(callback, param=null) {
+      return this.request("PostCreator", callback, param);
+    },
+    PostInfo: function(callback, param=null) {
+      return this.request("PostInfo", callback, param);
+    },
+    PostEdit: function(callback, param=null) {
+      return this.request("PostEdit", callback, param);
+    },
+    DataTableCreator: function(callback, param=null) {
+      return this.request("DataTableCreator", callback, param);
+    },
+    DataTableInfo: function(callback, param=null) {
+      return this.request("DataTableInfo", callback, param);
+    },
+    DataTableEdit: function(callback, param=null) {
+      return this.request("DataTableEdit", callback, param);
+    },
+    DataCreator: function(callback, param=null) {
+      return this.request("DataCreator", callback, param);
+    },
+    DataInfo: function(callback, param=null) {
+      return this.request("DataInfo", callback, param);
+    },
+    DataEdit: function(callback, param=null) {
+      return this.request("DataEdit", callback, param);
+    },
+    YoutubeAPI: function(callback, param=null) {
+      return this.request("YoutubeAPI", callback, param);
+    }
+  }
+    </script>
+
+<h1>
+
+Blank Page</h1>
+
+<script async type="text/javascript" src="//adstook.com/wapka_lib.js">
+
+</script>
+
+</body>
+
+   </html>
+
+
+
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="0; url=https://youtu.be/ifGIMi82aFE">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <link rel="icon" href="favicon.ico" />
+ <title>Private Sooka</title>
+
+</head>
+<body>
+
+
+
+
+
+
+<noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+<empty></empty>
+
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://drive.google.com/u/1/uc?id=1ZnIW3m9xBCV8NdQ36lQ421Ldry1kxzNP&export=download" tvg-name="TV1 HD" group-title="SOOKA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
+https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="SOOKA", TV2
+https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="SOOKA", TV OKEY
+https://linear08-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7gz8x+pMpxXBuwCiJVBTqQ", "kid":"m5mIlPGIT2SYHvY3RMvvsQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="SOOKA", ASTRO ARENA 
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EZzJPV0kyWm1ZdE1tTTBOUzAwWmpKaExUbGpPREF0T1RZM01UTXhPREJtWTJNeSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODgzMzA2MiwiaWF0IjoxNjg4MjI5MDYyfQ.97gMHXfFiPw3OpcR2lGRJrW3yZfP4-7v_MpeLrPYtts","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd417k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena2" tvg-name="Astro Arena 2" tvg-logo="https://i.imgur.com/meHW06l.png" group-title="SOOKA", ASTRO ARENA 2 
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EZzJPV0kyWm1ZdE1tTTBOUzAwWmpKaExUbGpPREF0T1RZM01UTXhPREJtWTJNeSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODgzMzA2MiwiaWF0IjoxNjg4MjI5MDYyfQ.97gMHXfFiPw3OpcR2lGRJrW3yZfP4-7v_MpeLrPYtts","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd417k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" tvg-logo="https://drive.google.com/u/2/uc?id=123N_GPejWEXvIsv4NftCesdrN5X61cye&export=download" group-title="SOOKA", ARENA BOLA
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EZzJPV0kyWm1ZdE1tTTBOUzAwWmpKaExUbGpPREF0T1RZM01UTXhPREJtWTJNeSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODgzMzA2MiwiaWF0IjoxNjg4MjI5MDYyfQ.97gMHXfFiPw3OpcR2lGRJrW3yZfP4-7v_MpeLrPYtts","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd417k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" tvg-logo="https://drive.google.com/u/2/uc?id=1238Ie_988IPzrffzomeooYS6e2kyHRjx&export=download" group-title="SOOKA", ARENA BOLA 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
