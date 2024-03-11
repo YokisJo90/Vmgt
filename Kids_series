@@ -28,7 +28,22 @@
 			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
             "drm": "clearkey",
             "drmkey": "87b15bdffd570bf67a8f96edd58f7910:e239b93e821f3f2c884cf740daead9c2"
-            }
+            },
+                    "episode": 2,
+                    "name": "Episod 2",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Bumi telah aman selama berbulan-bulan selepas kekalahan Majin Buu dan terhapusnya ingatan manusia tentang keganasan yang merosakkan Buu.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Craig Zobel"],
+						"cast": ["Ike Barinholtz","Betty Gilpin","Emma Roberts","Hilary Swank"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "87b15bdffd570bf67a8f96edd58f7910:e239b93e821f3f2c884cf740daead9c2"
+            } 
         ]
       }
     ]
