@@ -5,6 +5,13 @@
     "info": {
 		"poster": "http://is.gd/7rcyx2"
 		},
+    "series": [
+        {
+            "series": 1,
+            "info": {
+				"poster": "http://is.gd/7rcyx2",
+				"plot": "Enam bulan selepas kekalahan Majin Buu, Saiyan Son Goku yang perkasa meneruskan usahanya untuk menjadi lebih kuat."
+				},
             "episodes": [
                 {
                     "episode": 1,
