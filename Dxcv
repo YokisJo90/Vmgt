@@ -5,9 +5,10 @@
     "info": {
 		"poster": "http://is.gd/7rcyx2"
 		},
-    "series": [
+    "season": [
         {
-            "series": 1,
+            "season": 1,
+            "name": "Dragon Ball Super",                    
             "info": {
 				"poster": "http://is.gd/7rcyx2",
 				"plot": "Enam bulan selepas kekalahan Majin Buu, Saiyan Son Goku yang perkasa meneruskan usahanya untuk menjadi lebih kuat."
