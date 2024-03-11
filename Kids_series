@@ -21,7 +21,9 @@
 						"bg": "http://is.gd/7rcyx2", 
 						"plot": "Bumi telah aman selama berbulan-bulan selepas kekalahan Majin Buu dan terhapusnya ingatan manusia tentang keganasan yang merosakkan Buu.", 
 						"backdrop": "http://is.gd/7rcyx2",
-						"director": ["Craig Zobel"]
+						"director": ["Craig Zobel"],
+						"cast": ["Ike Barinholtz","Betty Gilpin","Emma Roberts","Hilary Swank"],
+						"year": "2015"
 						},
 			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
             "drm": "clearkey",
