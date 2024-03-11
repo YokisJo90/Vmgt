@@ -7,20 +7,20 @@
 		},
     "seasons": [
         {
-            "season": 4,
+            "season": 1,
             "info": {
-				"poster": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/45db9d39018145d78bfe9feb42b3cb29/version/2/width/1280/height/720",
-				"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts and guess their identity correctly?"
+				"poster": "http://is.gd/7rcyx2",
+				"plot": "Bumi telah aman selama berbulan-bulan selepas kekalahan Majin Buu dan terhapusnya ingatan manusia tentang keganasan yang merosakkan Buu."
 				},
             "episodes": [
                 {
                     "episode": 1,
                     "name": "Episod 1",
                     "info": {
-						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/01.png",
-						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/01.png", 
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
 						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
-						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/01.png"
+						"backdrop": "http://is.gd/7rcyx2"
 						},
 					"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
 					"drm":"clearkey",
