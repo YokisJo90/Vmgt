@@ -1,0 +1,37 @@
+[
+ {
+"name": "Dragon Ball Super",
+    "category": "Kids Series",
+    "info": {
+		"poster": "http://is.gd/7rcyx2"
+		},
+    "seasons": [
+        {
+            "season": 1,
+            "info": {
+				"poster": "http://is.gd/7rcyx2",
+				"plot": "Enam bulan selepas kekalahan Majin Buu, Saiyan Son Goku yang perkasa meneruskan usahanya untuk menjadi lebih kuat."
+				},
+            "episodes": [
+                {
+                    "episode": 1,
+                    "name": "Episod 1",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Bumi telah aman selama berbulan-bulan selepas kekalahan Majin Buu dan terhapusnya ingatan manusia tentang keganasan yang merosakkan Buu.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "87b15bdffd570bf67a8f96edd58f7910:e239b93e821f3f2c884cf740daead9c2"
+                       
+           }
+        ]
+      }
+    ]
+   }
+  ]
