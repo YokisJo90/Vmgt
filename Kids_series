@@ -21,14 +21,14 @@
 						"bg": "http://is.gd/7rcyx2", 
 						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
 						"backdrop": "http://is.gd/7rcyx2",
-              "director": [
-                ""
-              ],
-              "cast": [
+						"director": [
+						""
+						],
+						"cast": [
                 "Rivki Bench",
                 "Daniela Aita",
                 "Noelia Lestani"
-              ]
+              ],             
 						},
 					"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
 					"drm":"clearkey",
