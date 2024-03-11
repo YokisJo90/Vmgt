@@ -44,6 +44,23 @@
 			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f9d594be-9a67-5773-a60d-1ba9438b73cf/default.mpd",
             "drm": "clearkey",
             "drmkey": "2db3aade3bc5c20f862c27313861df10:c1192d7b328308ec535da25ca1ec8fe5"
+            },
+            {
+                    "episode": 3,
+                    "name": "Episod 3",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Goku berlatih di Dunia Raja Kai, dan Kais ingin memastikan Goku tidak bersentuhan dengan Beerus.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f7209ba9-5fc1-5c75-90c9-52f41c8fe21b/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "7107f2adcfda4274666a66c17af5cb10:4c252a22e2e819ccb860a9644c2c6dad"
+           
            }
         ]
       }
