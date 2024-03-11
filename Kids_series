@@ -1,0 +1,32 @@
+  {
+    "name": "Dragon Ball Super",
+    "category": "Kids Series",
+    "seasons": [
+      {
+        "seasons": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "S01E1",
+            "info": {
+              "plot": "Bumi telah aman selama berbulan-bulan selepas kekalahan Majin Buu dan terhapusnya ingatan manusia tentang keganasan yang merosakkan Buu.",
+              "poster": "http://is.gd/7rcyx2",
+              "bg": "http://is.gd/7rcyx2",
+              "backdrop": "http://is.gd/7rcyx2",
+              "director": [
+                ""
+              ],
+              "cast": [
+                "Rivki Bench",
+                "Daniela Aita",
+                "Noelia Lestani"
+              ]
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "87b15bdffd570bf67a8f96edd58f7910:e239b93e821f3f2c884cf740daead9c2"
+         }
+        ]
+      }
+    ]
+  },
