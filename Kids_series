@@ -1,495 +1,193 @@
+[
+ {
+      "name": "The Masked Singer Malaysia",
+    "category": "Reality Show",
+    "info": {
+		"poster": "https://aqfadtv.xyz/images/TMSM.png"
+		},
+    "seasons": [
+        {
+            "season": 4,
+            "info": {
+				"poster": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/45db9d39018145d78bfe9feb42b3cb29/version/2/width/1280/height/720",
+				"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts and guess their identity correctly?"
+				},
+            "episodes": [
+                {
+                    "episode": 1,
+                    "name": "Episod 1",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/01.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/01.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/01.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E01.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+				{
+                    "episode": 2,
+                    "name": "Episod 2",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/02.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/02.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/02.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E02.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+				{
+                    "episode": 3,
+                    "name": "Episod 3",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/S4.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/S4.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/S4.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E03.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+		        {
+                    "episode": 4,
+                    "name": "Episod 4",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/04.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/04.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/04.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E04.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+		        {
+                    "episode": 5,
+                    "name": "Episod 5",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/05.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/05.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/05.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E05.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+				{
+                    "episode": 6,
+                    "name": "Episod 6",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/06.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/06.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/06.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E06.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+									{
+                    "episode": 7,
+                    "name": "Episod 7",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/07.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/07.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/07.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E07.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+														{
+                    "episode": 8,
+                    "name": "Episod 8",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/08.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/08.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/08.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E08.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+																			{
+                    "episode": 9,
+                    "name": "Episod 9",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/09.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/09.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/09.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E09.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					},
+					{
+                    "episode": 10,
+                    "name": "Episod 10",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/10.png",
+						"bg": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/10.png", 
+						"plot": "This forth season features new lineup of celebrity detectives to a new batch of Masked Singers with crazier secret and unexpected talent. Will Malaysia and the detectives prove their smarts?", 
+						"backdrop": "https://aqfadtv.xyz/images/TheMaskedSingerMalaysia/S4/10.png"
+						},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S4/The.Masked.Singer.Malaysia.S04E10.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+					}
+				
+            ]
+        }
+    ]
+},
 
 {
-    "name": "Boardwalk Empire",
+    "name": "I.D.",
+    "category": "Crime",
+    "info": {
+		"poster": "https://aqfadtv.xyz/images/I.D./I.D.png",
+		"genre": ["drama", "crime"],
+		"year": "2024"
+		},
     "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "name": "S01E01: Boardwalk Empire",
-            "info": {
-              "plot": "Ketua yang korup, Nucky Thompson mempunyai peranan tersendiri di Atlantic City tatkala negara memasuki era Prohibition.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011239X0-landscape.jpg",
-              "director": [
-                "Martin Scorsese"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Greg Antonacci",
-                "Danny Burstein",
-                "Frank Crudele",
-                "Dana Ivey",
-                "Peter Mcrobbie",
-                "Erik Weiner",
-                "Stephen Derosa",
-                "Joe Sikora",
-                "Pearce Bunting",
-                "Johnnie Mae",
-                "Billy Smith"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f0058e4430572486937f_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "83ba5247fb925b39b64a5764b0f5b505:df3d2e35e4774a425e44584e8911aae2"
-          },
-          {
-            "episode": 2,
-            "name": "S01E02: The Ivory Tower",
-            "info": {
-              "plot": "Nucky membuat pakatan setelah menimbulkan syak seorang Ejen Prohibition, Nelson Van Alden.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011241X0-landscape.jpg",
-              "director": [
-                "Tim Van Patten"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Michael Pitt",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Greg Antonacci",
-                "Danny Burstein",
-                "Frank Crudele",
-                "Peter Mcrobbie",
-                "Erik Weiner"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f0b78e44305724869392_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "00b7447c6fd55ee0b76c3b7dc29eb4e9:2b06be3f686ba280b23f080beea9fde2"
-          },
-          {
-            "episode": 3,
-            "name": "S01E03: Broadway Limited",
-            "info": {
-              "plot": "Masa depan Jimmy kelam akibat seorang saksi yang disangka dalam peristiwa pembunuhan di hutan; Margaret mendapat kerja baru; pasukan Chalky menerima akibat daripada kejayaannya.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011243X0-landscape.jpg",
-              "director": [
-                "Tim Van Patten"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Edoardo Ballerini",
-                "Max Casella",
-                "Peter Mcrobbie",
-                "Erik Weiner"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f1588e443057248693a2_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "4fa38fe7bec85d0bb3d373d8a923e3eb:33897987f5ff52bae5bd6d1e704b4676"
-          },
-          {
-            "episode": 4,
-            "name": "S01E04: Anastasia",
-            "info": {
-              "plot": "Jimmy membina hubungan baru di Chicago; Nucky meraikan seorang ahli Senat AS; Chalky mengenalpasti seorang suspek pembunuhan; Margaret dan Lucy pula bergaduh.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011245X0-landscape.jpg",
-              "director": [
-                "Jeremy Podeswa"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Greg Antonacci",
-                "Edoardo Ballerini",
-                "Max Casella",
-                "Chris Mulkey",
-                "Geoff Pierson",
-                "Emily Meade"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f2008e443057248693b4_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "69625f9585bd5a58bda5474dc59e12e9:5b7b520b417957e03e4d687d7200c84d"
-          },
-          {
-            "episode": 5,
-            "name": "S01E05: Nights In Ballygran",
-            "info": {
-              "plot": "Usaha Nucky untuk meraikan kedatangan Hari St. Patrick telah dijejaskan oleh Eli, Margaret dan Van Alden.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011247X0-landscape.jpg",
-              "director": [
-                "Alan Taylor"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Tom Aldredge",
-                "Greg Antonacci",
-                "Dana Ivey",
-                "Erik Weiner",
-                "Emily Meade"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f2a58e443057248693c5_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "6f69b2c344665a1fb57c2dcfd676bdce:1ed6f9e059af3424b062710e25602983"
-          },
-          {
-            "episode": 6,
-            "name": "S01E06: Family Limitation",
-            "info": {
-              "plot": "Nucky menyiasat kecurian laluan; Jimmy mendapat pujian daripada Johnny Torrio di Chicago; Margaret berdepan dengan Lucy.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011249X0-landscape.jpg",
-              "director": [
-                "Tim Van Patten"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Greg Antonacci",
-                "Edoardo Ballerini",
-                "Dana Ivey",
-                "Peter Mcrobbie",
-                "Chris Mulkey",
-                "Erik Weiner"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f37a8e443057248693db_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "47ce7acc0ddf57049f9616a37df511f4:10f133fc4e4dff8bb0ac561c42bab646"
-          },
-          {
-            "episode": 7,
-            "name": "S01E07: Home",
-            "info": {
-              "plot": "Nucky menceritakan tentang pengalaman pahitnya ketika kecil; Jimmy membuat pakatan baru dengan seorang veteran Luciano dan rakan membuat perjanjian dengan D’Alessio bersaudara.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011251X0-landscape.jpg",
-              "director": [
-                "Allen Coulter"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Tom Aldredge",
-                "Michael Badalucco",
-                "Edoardo Ballerini",
-                "Max Casella",
-                "Jack Huston",
-                "Lisa Joyce",
-                "Erik Weiner",
-                "Anatol Yusef"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f4228e443057248693ec_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "2291f7d86c2055b4b8f09cf899ea7f28:9e518d6b5908380a954701edc76a05b5"
-          },
-          {
-            "episode": 8,
-            "name": "S01E08: Hold Me In Paradise",
-            "info": {
-              "plot": "Ketika melawat Chicago untuk Republican National Convention, Nucky mendapat berita yang mengejutkan dari Atlantic City.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011253X0-landscape.jpg",
-              "director": [
-                "Brian Kirk"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Greg Antonacci",
-                "Edoardo Ballerini",
-                "Danny Burstein",
-                "Max Casella",
-                "Jack Huston",
-                "Christopher Mcdonald",
-                "Geoff Pierson"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f4ed8e44305724869401_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "afa44938639656628e44b5b48d9a94a2:db672f3ed3b0789b3d7d8240e5056618"
-          },
-          {
-            "episode": 9,
-            "name": "S01E09: Belle Femme",
-            "info": {
-              "plot": "Nucky bersiap sedia untuk berperang dengan pihak musuh; Jimmy tetap dengan alibinya; Margaret membantu Madame Jeunet.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011255X0-landscape.jpg",
-              "director": [
-                "Brad Anderson"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Edoardo Ballerini",
-                "Danny Burstein",
-                "Max Casella",
-                "Josiah Early",
-                "Lisa Joyce",
-                "Peter Mcrobbie",
-                "Erik Weiner",
-                "Anatol Yusef"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f59e8e44305724869413_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "c67a40f94bd055d89941c84875becc47:a2e3235858525916ed8d6b3af2b16b7a"
-          },
-          {
-            "episode": 10,
-            "name": "S01E10: The Emerald City",
-            "info": {
-              "plot": "Nucky meminta Margaret untuk mengikut arahan; Angela menyaksikan sisi ganas Jimmy; Capone mengalami kebuntuan; Van Alden mengalami masalah emosi.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011257X0-landscape.jpg",
-              "director": [
-                "Simon Cellan Jones"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Greg Antonacci",
-                "Max Casella",
-                "Josiah Early",
-                "Jack Huston",
-                "Dana Ivey",
-                "Lisa Joyce",
-                "Peter Mcrobbie",
-                "Erik Weiner",
-                "Anatol Yusef"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f6898e4430572486942b_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "1a9ad61525a4595dae7ec99b45d089bd:5240e2c7c47b42322ebe02ec7ffa31a8"
-          },
-          {
-            "episode": 11,
-            "name": "S01E11: Paris Green",
-            "info": {
-              "plot": "Episod akhir Musim 1. Nucky dan Atlantic City bersiap sedia untuk perubahan pada Hari Pilihanraya; orang tengah Torrio membuat perjanjian dengan dua orang musuh, dan membawa kepada akibat yang besar.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011259X0-landscape.jpg",
-              "director": [
-                "Allen Coulter"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Tom Aldredge",
-                "Michael Badalucco",
-                "Josiah Early",
-                "Jack Huston",
-                "Lisa Joyce",
-                "Erik Weiner"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f7948e44305724869446_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "aed4984d21c850619bb8013029f9e74b:5c4f97b6cbc4349b1df1c338a4734ff7"
-          },
-          {
-            "episode": 12,
-            "name": "S01E12: A Return To Normalcy",
-            "info": {
-              "plot": "Episod akhir Musim 1. Nucky dan Atlantic City bersiap sedia untuk perubahan pada Hari Pilihanraya; orang tengah Torrio membuat perjanjian dengan dua orang musuh, dan membawa kepada akibat yang besar.",
-              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
-              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011261X0-landscape.jpg",
-              "director": [
-                "Tim Van Patten"
-              ],
-              "cast": [
-                "Steve Buscemi",
-                "Michael Pitt",
-                "Kelly Macdonald",
-                "Michael Shannon",
-                "Shea Whigham",
-                "Aleksa Palladino",
-                "Michael Stuhlbarg",
-                "Stephen Graham",
-                "Vincent Piazza",
-                "Paz De La Huerta",
-                "Michael Kenneth Williams",
-                "Anthony Laciura",
-                "Paul Sparks",
-                "Dabney Coleman",
-                "Gretchen Mol",
-                "Greg Antonacci",
-                "Jack Huston",
-                "Max Casella",
-                "Chris Mulkey",
-                "Edoardo Ballerini",
-                "Peter Mcrobbie",
-                "Anatol Yusef"
-              ]
-            },
-            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f8a38e44305724869460_hbovodhd/dash0/MYS_index.mpd",
-            "drm": "clearkey",
-            "drmkey": "3890d478c8e95d46a2db637b15f14008:faa902df10b356929ea6085a7bdfd3bf"
-          }
-         ]
-        }
-       ]
-      }
-     ]
+        {
+			"info": {
+		    "plot": "When the creator of an app was unfairly fired and no longer able to meet his 'soulmate', he had decided to confront his fear that leads to the country's biggest scammer attack ever known in history."
+			},	
+            "episodes": [
+                {
+                    "episode": 1,
+                    "name": "Fear Makes The World Go Round",
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/I.D./01.png",
+						"bg": "https://aqfadtv.xyz/images/I.D./01.png",
+						"plot": "Losing both his job and dream lover, Aidi rises against the entitled bully Jazman, proving revenge is best served with a dose of personal-data breach.",
+						"backdrop": "https://aqfadtv.xyz/images/I.D./01.png"
+					},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/I.D./I.D.S01E01.1080p.mkv"
+				}
+				
+			]
+		}
+	]
+},
 
-
-
-
-
-
-
-
+{
+    "name": "Sepahtu Reunion Al Moreh",
+    "category": "Comedy",
+    "info": {
+		"poster": "https://aqfadtv.xyz/images/SRAM.png",
+		"genre": ["comedy"],
+		"year": "2024"
+		},
+    "seasons": [
+        {
+			"info": {
+		    "plot": "Kembali mengubat rindu anda, Jep, Rahim, Pak Ya &amp; Ebby Yus bakal menghiburkan anda sepanjang Ramadan secara langsung."
+			},	
+            "episodes": [
+                {
+                    "episode": 1,
+                    "info": {
+						"poster": "https://aqfadtv.xyz/images/SepahtuReunionAlMoreh/01.png",
+						"bg": "https://aqfadtv.xyz/images/SepahtuReunionAlMoreh/01.png",
+						"plot": "Kembali mengubat rindu anda, Jep, Rahim, Pak Ya &amp; Ebby Yus bakal menghiburkan anda sepanjang Ramadan secara langsung.",
+						"backdrop": "https://aqfadtv.xyz/images/SepahtuReunionAlMoreh/01.png"
+					},
+					"video": "http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Sepahtu-Reunion-Al-Moreh/Sepathu.Reunion.Al.Moreh.S01E01.1080p.Sooka.WEB-DL.H264.AAC.mp4"
+				}
+				
+			]
+		}
+	]
+}
+		        
+    
