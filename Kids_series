@@ -60,6 +60,38 @@
 			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f7209ba9-5fc1-5c75-90c9-52f41c8fe21b/default.mpd",
             "drm": "clearkey",
             "drmkey": "7107f2adcfda4274666a66c17af5cb10:4c252a22e2e819ccb860a9644c2c6dad"
+            },
+            {
+                    "episode": 4,
+                    "name": "Episod 4",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Beerus dan Whis menuju ke planet Raja Kai untuk bertemu Goku. Raja Kai akhirnya memberitahu Goku tentang Lord Beerus dan kemusnahan yang boleh ditimbulkannya. Bulma marah kerana Goku dan Vegeta merindui pestanya.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3de741b7-ec89-5f1f-944b-d878db1e2b71/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "885338f1278e879125662be4ced96b10:9ecb237f547ff77bdc4c8a91b9313eab"
+            },
+            {
+                    "episode": 5,
+                    "name": "Episod 5",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Lord Beerus tiba di dunia Raja Kai dan meminta Goku mendapatkan maklumat tentang Dewa Super Saiyan. Goku tidak pernah mendengar perkara seperti itu.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0408f5b1-0303-51a4-8b1e-15b0de602aa6/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "11198bb1aa82b4767c69ef87ddab5d10:b352b32b03af2c21d4d27e1eebb59363"
            
            }
         ]
