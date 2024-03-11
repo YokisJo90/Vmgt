@@ -1,32 +1,53 @@
-  {
-    "name": "Dragon Ball Super",
-    "category": "Kids Series",
+{
+    "name": "Boardwalk Empire",
     "seasons": [
       {
-        "seasons": 1,
+        "season": 1,
         "episodes": [
           {
             "episode": 1,
-            "name": "S01E1",
+            "name": "S01E01: Boardwalk Empire",
             "info": {
-              "plot": "Bumi telah aman selama berbulan-bulan selepas kekalahan Majin Buu dan terhapusnya ingatan manusia tentang keganasan yang merosakkan Buu.",
-              "poster": "http://is.gd/7rcyx2",
-              "bg": "http://is.gd/7rcyx2",
-              "backdrop": "http://is.gd/7rcyx2",
+              "plot": "Ketua yang korup, Nucky Thompson mempunyai peranan tersendiri di Atlantic City tatkala negara memasuki era Prohibition.",
+              "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
+              "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se474-portrait.jpg",
+              "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/011239X0-landscape.jpg",
               "director": [
-                ""
+                "Martin Scorsese"
               ],
               "cast": [
-                "Rivki Bench",
-                "Daniela Aita",
-                "Noelia Lestani"
+                "Steve Buscemi",
+                "Michael Pitt",
+                "Kelly Macdonald",
+                "Michael Shannon",
+                "Shea Whigham",
+                "Aleksa Palladino",
+                "Michael Stuhlbarg",
+                "Stephen Graham",
+                "Vincent Piazza",
+                "Paz De La Huerta",
+                "Michael Kenneth Williams",
+                "Anthony Laciura",
+                "Paul Sparks",
+                "Dabney Coleman",
+                "Greg Antonacci",
+                "Danny Burstein",
+                "Frank Crudele",
+                "Dana Ivey",
+                "Peter Mcrobbie",
+                "Erik Weiner",
+                "Stephen Derosa",
+                "Joe Sikora",
+                "Pearce Bunting",
+                "Johnnie Mae",
+                "Billy Smith"
               ]
             },
-            "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/974ffdbd-dfd8-54f5-aa39-eb2026c8a35a/default.mpd",
+            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c67f0058e4430572486937f_hbovodhd/dash0/MYS_index.mpd",
             "drm": "clearkey",
-            "drmkey": "87b15bdffd570bf67a8f96edd58f7910:e239b93e821f3f2c884cf740daead9c2"
-         }
+            "drmkey": "83ba5247fb925b39b64a5764b0f5b505:df3d2e35e4774a425e44584e8911aae2"
+          }        
         ]
       }
     ]
-  },
+  }
