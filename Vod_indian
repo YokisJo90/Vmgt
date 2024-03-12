@@ -272,6 +272,27 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/06cb7fe6-3c44-5c41-bbc4-364e32497f60/default.mpd",
     "drm": "clearkey",
     "drmkey": "55eae4773e0779c8892bac0b97804a10:ad4ac682d2008c498d3b602be2c8eda3"
+  },
+  {
+    "name": "Mahaan",
+    "category": "VOD Indian",
+    "info": {
+      "poster": "https://is.gd/98l51u",
+      "bg": "https://is.gd/98l51u",
+      "plot": "Seorang guru sekolah pertengahan umur, Gandhi Mahaan, memulakan perjalanan penemuan diri selepas ditinggalkan keluarganya. Dia tidak lama lagi menjadi jutawan kebanggaan tetapi menghadapi banyak cabaran.",
+      "backdrop": "https://is.gd/98l51u",
+      "director": [
+        "Karthik Subbaraj"
+      ],
+      "cast": [
+        "Vikram", 
+        "Dhruv Vikram"
+      ],
+      "year": "2022"
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/43fe2022-5018-53ff-932e-9257939cc6d8/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "f46d3e8f34f9cc14244b5f8750dec910:e2fd4f8388ceadae0381ada57419570e"
   }
 ]
   
