@@ -148,61 +148,46 @@
     "drmkey": ""
   },
   {
-    "name": "Big George Foreman",
+    "name": "Diary",
     "category": "VOD Indian",
     "info": {
-      "poster": "https:\/\/is.gd\/I4CQAT",
-      "bg": "https:\/\/is.gd\/I4CQAT",
-      "plot": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit.",
-      "backdrop": "https:\/\/is.gd\/I4CQAT",
+      "poster": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIMUU_IVP_LAND_448x252_2023914_184322.jpg",
+      "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIMUU_IVP_LAND_448x252_2023914_184322.jpg",
+      "plot": "Sharvesh membeli rumah banglo yang serba lengkap sebagai pemilik kedua daripada ejen hartanah di bukit Fraser. Dia membawa kekasihnya Maya ke rumah dan mereka bermalam. Malam berikutnya Maya menemui sebuah diari yang ditulis pada tahun 2002 oleh seorang lelaki yang dipercayai pemilik rumah terdahulu. Dalam diari itu, penulis berkata isterinya meninggal dunia di dalam rumah dan rohnya masih berkeliaran di situ. Kisah yang ditulis dalam diari itu mula menghantui pasangan ini. Selebihnya cerita tentang misteri yang tersembunyi di dalam rumah.",
+      "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIMUU_IVP_LAND_448x252_2023914_184322.jpg",
       "director": [
-        "George Tillman Jr."
+        "Vathani Kunasegarran"
       ],
       "cast": [
-        "Khris Davis",
-        "Jasmine Mathews",
-        "Sullivan Jones",
-        "Lawrence Gilliard Jr.",
-        "John Magaro"
+        "Ravin Rao Hamsni Perumal"
       ],
       "year": "2023"
     },
-    "video": "https:\/\/vodejitp-asset-playback-b.astro.com.my\/v3\/default\/dash-wv\/vode\/45041998-4f63-5138-9f37-c6b96d79d967\/default.mpd",
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3f40b9fe-23c6-5fc0-a842-a3a781092324/default_primary.mpd",
     "drm": "clearkey",
-    "drmkey": "281198368783a9adaed4a3d4bef0ef10:525eea3e0e563e832474be4b02c5d518"
+    "drmkey": "766ec0849f12e68389fc223e991e3310:767a05ae68cea16539c8160e73344ae1"
   },
   {
-    "name": "Lights Out",
+    "name": "Vishwaroopam 2",
     "category": "VOD Indian",
     "info": {
-      "poster": "https:\/\/dai3fd1oh325y.cloudfront.net\/images\/480p\/020533X0-portrait.jpg",
-      "bg": "https:\/\/dai3fd1oh325y.cloudfront.net\/images\/originald\/020533X0-landscape.jpg",
-      "plot": "Semasa Rebecca meninggalkan rumah, dia berfikir bahawa ketakutan zaman kanak-kanaknya ditinggalkan. Sebagai gadis remaja yang semakin dewasa, dia tidak pernah pasti apa yang benar apabila lampu dipadamkan pada waktu malam. Sekarang, adik lelakinya, Martin, mengalami pengalaman sama yang tidak boleh dijelaskan dan kejadian menggerunkan yang mengancam keselamatan dan kewarasan. Mempunyai ikatan misteri dengan ibu mereka, entiti ghaib itu kembali dengan dendam untuk menyeksa keseluruhan keluarga.",
-      "backdrop": "https:\/\/dai3fd1oh325y.cloudfront.net\/images\/originald\/020533X0-landscape.jpg",
+      "poster": "https://is.gd/fXM3sc",
+      "bg": "https://is.gd/fXM3sc",
+      "plot": "Selepas gagal melaksanakan serangan pengganas paling maut di bandar New York, Omar mempunyai satu lagi rancangan berbahaya. Sementara itu, tentera yang bertukar menjadi pengintip Mejar Wisam Ahmad Kashmiri, isteri ahli onkologi nuklearnya Nirupama, rakan kerjanya Ashmita Sunbramanium dan Kolonel Jagannath bekerjasama untuk menggagalkan permainan balas dendam Omar.",
+      "backdrop": "https://is.gd/fXM3sc",
       "director": [
-        "David F. Sandberg"
+        "Kamal Haasan"
       ],
       "cast": [
-        "Teresa Palmer",
-        "Gabriel Bateman",
-        "Alexander Dipersia",
-        "Billy Burke",
-        "Maria Bello",
-        "Alicia Vela-Bailey",
-        "Andi Osho",
-        "Rolando Boyce",
-        "Maria Russell",
-        "Elizabeth Pan",
-        "Lotta Losten",
-        "Amiah Miller",
-        "Ava Cantrell",
-        "Emily  Alyn Lind"
+        "Kamal Haasan",
+        "Rahul Bose",
+        "Pooja Kumar"       
       ],
-      "year": "2016"
+      "year": "2018"
     },
-    "video": "https:\/\/hbogoprod-vod.akamaized.net\/video\/vod\/output\/HBOAsia\/5fa4a9566d048943f768882a_hbovodhd\/dash0\/MYS_DOLBY_index.mpd",
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d62a15e5-f75d-5c91-92a9-a89552e44185/default_primary.mpd",
     "drm": "clearkey",
-    "drmkey": "d277ff9532285b668b50ae96bd5bf848:c4a0948fcb72666a81b91b4fd3151ec1"
+    "drmkey": "8a28caefa98f3bcedbe89dfa22263b10:1fffa7ec701d77213117c629fbd85da8"
   },
   {
     "name": "Lights Out",
