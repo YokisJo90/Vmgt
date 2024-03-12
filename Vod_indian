@@ -25,50 +25,50 @@
     "drmkey": ""
   },
   {
-    "name": "The Hunt",
+    "name": "Bawaal",
     "category": "VOD Indian",
     "info": {
-      "poster": "https:\/\/is.gd\/mRqPfS",
-      "bg": "https:\/\/is.gd\/mRqPfS",
-      "plot": "Twelve strangers wake up in a clearing. They don't know where they are -- or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport",
-      "backdrop": "https:\/\/is.gd\/mRqPfS",
+      "poster": "https://is.gd/83JveL",
+      "bg": "https://is.gd/83JveL",
+      "plot": "Seorang lelaki bandar kecil yang jatuh cinta dengan gadis paling cantik di bandar. Dia mahu mengahwininya suatu hari nanti kerana mengahwininya boleh menaikkan kedudukan sosialnya.",
+      "backdrop": "https://is.gd/83JveL",
       "director": [
-        "Craig Zobel"
+        "Nitesh Tiwari"
       ],
       "cast": [
-        "Ike Barinholtz",
-        "Betty Gilpin",
-        "Emma Roberts",
-        "Hilary Swank"
+        "Varun Dhawan",
+        "Janhvi Kapoor",
+        "Manoj Pahwa",
+        "Anjuman Saxena"
       ],
-      "year": "2020"
+      "year": "2023"
     },
-    "video": "https:\/\/vodejitp-asset-playback-b.astro.com.my\/v3\/default\/dash-wv\/vode\/7806e23a-40f9-52b8-a2a7-7f8e2ecd13a5\/default_primary.mpd",
-    "drm": "clearkey",
-    "drmkey": "3b239e8d9dc166c3d43f18f94a397410:6ab5cd4fc6277af7e352ad9de3744b57"
+    "video": "https://is.gd/A0iAKF",
+    "drm": "",
+    "drmkey": ""
   },
   {
-    "name": "Code 8: Part II",
+    "name": "Dunki",
     "category": "VOD Indian",
     "info": {
-      "poster": "https:\/\/is.gd\/aSjRIf",
-      "bg": "https:\/\/is.gd\/aSjRIf",
-      "plot": "Follows a girl fighting to get justice for her slain brother by corrupt police officers. She enlists the help of an ex-con and his former partner, they face a highly regarded and well protected police sergeant who doesn't want to be.",
-      "backdrop": "https:\/\/is.gd\/aSjRIf",
+      "poster": "https://is.gd/MXH9Cp",
+      "bg": "https://is.gd/MXH9Cp",
+      "plot": "Empat kawan dari sebuah kampung di Punjab berkongsi impian yang sama: untuk pergi ke England. Masalah mereka ialah mereka tidak mempunyai visa mahupun tiket. Seorang askar berjanji untuk membawa mereka ke tanah impian mereka. Dunki ialah kisah lucu dan mengharukan tentang perjalanan berbahaya, sempadan, persahabatan, nostalgia untuk rumah tangga, dan cinta yang mendahului segala-galanya.",
+      "backdrop": "https://is.gd/MXH9Cp",
       "director": [
-        "Jeff Chan"
+        "Rajkumar Hirani"
       ],
       "cast": [
-        "Robbie Amell",
-        "Stephen Amell",
-        "Alex Mallari Jr.",
-        "Sirena Gulamgaus",
-        "Aaron Abrams",
-        "Moe Jeudy-Lamour"
+        "Shah Rukh Khan",
+        "Taapsee Pannu",
+        "Ryan Cretney",
+        "Priya Sindher",
+        "Ketan Desai",
+        "Deven Bhojani"
       ],
-      "year": "2024"
+      "year": "2023"
     },
-    "video": "https:\/\/pub-5b99120f2bf84eed87cb690de94b04ff.r2.dev\/Code.8.Part.II.2024.1080p.WEBRip.MalaySub.by.MZ..mp4",
+    "video": "https://onedrive.live.com/download?resid=1A8244E8E5577B3C%21107&authkey=!AGNrafQTxssf16M",
     "drm": "",
     "drmkey": ""
   },
