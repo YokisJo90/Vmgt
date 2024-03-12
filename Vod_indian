@@ -190,49 +190,45 @@
     "drmkey": "8a28caefa98f3bcedbe89dfa22263b10:1fffa7ec701d77213117c629fbd85da8"
   },
   {
-    "name": "Lights Out",
+    "name": "Jango",
     "category": "VOD Indian",
     "info": {
-      "poster": "https:\/\/is.gd\/wcT5Hw",
-      "bg": "https:\/\/is.gd\/wcT5Hw",
-      "plot": "Homeless veteran Michael Duffy Duffield is always on the move, until he meets talkative ex-con Max Bomer. Max notices Duffy's skills after he gets into a bar fight and offers him a well-paying job. Duffy agrees and discovers that the job is competing in underground fight clubs. Soon, he gets roped into the violent and unyielding world steeped in secrecy and darkness.",
-      "backdrop": "https:\/\/is.gd\/wcT5Hw",
+      "poster": "https://is.gd/iptN7U",
+      "bg": "https://is.gd/iptN7U",
+      "plot": "Seorang pakar bedah saraf yang terperangkap dalam gelung masa cuba menyelamatkan isterinya yang terasing daripada dibunuh oleh lelaki misteri.",
+      "backdrop": "https://is.gd/iptN7U",
       "director": [
-        "Christian Sesma"
+        "Mano Karthikeyan"
       ],
       "cast": [
-        "Frank Grillo",
-        "Mekhi Phifer",
-        "Jaime King",
-        "Dermot Mulroney",
-        "Scott Adkins"
+        "Satheesh Kumar"
       ],
-      "year": "2024"
+      "year": "2021"
     },
-    "video": "https:\/\/vodejitp-asset-playback-b.astro.com.my\/v3\/default\/dash-wv\/vode\/c161e6a9-1eff-5a00-8038-194923df8e3f\/default.mpd",
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/30bcecc3-8c3f-591c-a7be-94f043718052/default_primary.mpd",
     "drm": "clearkey",
-    "drmkey": "d1c88a90651d1afe62ba6f5c3eebdb10:4c8ab4165be0dce7c1da2d866c8822a3"
+    "drmkey": "6da7bc5c8133354a51caf5fefac16210:a065302ef653be509c6aa2a622242e3c"
   },
   {
-    "name": "The Foreigner",
+    "name": "Senthozhan Sengkathirvaanan",
     "category": "VOD Indian",
     "info": {
-      "poster": "https:\/\/is.gd\/W6hp52",
-      "bg": "https:\/\/is.gd\/W6hp52",
-      "plot": "London businessman Quan sees his long-buried past erupt in a revenge-fueled vendetta when the only person left for him to love - his teenage daughter - is taken from him in a senseless act of politically-motivated terrorism. In his relentless search for the identity of the terrorists, Quan is forced into a cat-and-mouse conflict with a British government official, whose own past may hold clues to the identities of the elusive killers.",
-      "backdrop": "https:\/\/is.gd\/W6hp52",
+      "poster": "https://is.gd/avgpGF",
+      "bg": "https://is.gd/avgpGF",
+      "plot": "Kisah yang menegangkan ini berkisar tentang seorang lelaki muda yang menghidap gangguan bipolar, gangguan psikologi dan mentalnya menyebabkan dia berasa sangat cemas dan putus asa. Penggemar rahsianya ingin membantunya mengatasi halangannya tetapi menemui lebih banyak cerita apabila rahsia yang lebih gelap dan lebih berbahaya terbongkar. Kehidupan menjadi terbalik lebih jauh apabila dia menyaksikan sesuatu yang dia tidak sengaja.",
+      "backdrop": "https://is.gd/avgpGF",
       "director": [
-        "Martin Campbell"
+        "Govind Singh"
       ],
       "cast": [
-        "Jackie Chan",
-        "Pierce Brosnan"
+        "Kash Villanz",
+        "Moon Nila"
       ],
-      "year": "2017"
+      "year": "2022"
     },
-    "video": "https:\/\/vodejitp-asset-playback-b.astro.com.my\/v3\/default\/dash-wv\/vode\/6ea32fba-d7ed-53b9-89d0-9be3631473e4\/default.mpd",
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/89dd5d0d-3659-5be2-b287-900612ff4b2e/default_primary.mpd",
     "drm": "clearkey",
-    "drmkey": "f307e09a504d8759af84ee708f07f210:3ecfaea26f9cbfec551e1a1efc9e75fd"
+    "drmkey": "2580e4aad352d44af50b553f86d55210:f111f32652d6722ef3f40f4b1bf8d587"
   },
   null
 ]
