@@ -253,112 +253,25 @@
     "drmkey": "8497e427ecdb361f2f25f4adab3eca10:cfb1c1cb9267b691972ef960bb169b4a"
   },
   {
-    "name": "Ayalaan",
+    "name": "Mr.Peyii",
     "category": "VOD Indian",
     "info": {
-      "poster": "https://is.gd/cYlRKw",
-      "bg": "https://is.gd/cYlRKw",
-      "plot": "Seorang makhluk asing yang hilang meminta bantuan untuk pulang ke rumahnya, tetapi segala-galanya menjadi lebih sukar selepas makhluk asing itu kembali ke rumahnya.",
-      "backdrop": "https://is.gd/cYlRKw",
+      "poster": "https://is.gd/FdZI7D",
+      "bg": "https://is.gd/FdZI7D",
+      "plot": "Sebuah komedi seram Tamil tempatan yang berkisar tentang legenda pontianak 'lompat' Cina yang terkenal tetapi berlatarkan zaman moden.",
+      "backdrop": "https://is.gd/FdZI7D",
       "director": [
-        "R. Ravikumar"
+        "V. Nagaraj"
       ],
       "cast": [
-        "Sivakarthikeyan",
-        "Rakul Preet Singh",
-        "Karunakaran",
-        "Bhanupriya",
-        "Sharad Kelkar",
-        "Isha Koppikar"
-      ],
-      "year": "2024"
-    },
-    "video": "https://onedrive.live.com/download?resid=3FEF73A1B036953%21107&authkey=!AGovDCoghRdV31U",
-    "drm": "",
-    "drmkey": ""
-  },
-  {
-    "name": "Diary",
-    "category": "VOD Indian",
-    "info": {
-      "poster": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIMUU_IVP_LAND_448x252_2023914_184322.jpg",
-      "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIMUU_IVP_LAND_448x252_2023914_184322.jpg",
-      "plot": "Sharvesh membeli rumah banglo yang serba lengkap sebagai pemilik kedua daripada ejen hartanah di bukit Fraser. Dia membawa kekasihnya Maya ke rumah dan mereka bermalam. Malam berikutnya Maya menemui sebuah diari yang ditulis pada tahun 2002 oleh seorang lelaki yang dipercayai pemilik rumah terdahulu. Dalam diari itu, penulis berkata isterinya meninggal dunia di dalam rumah dan rohnya masih berkeliaran di situ. Kisah yang ditulis dalam diari itu mula menghantui pasangan ini. Selebihnya cerita tentang misteri yang tersembunyi di dalam rumah.",
-      "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIMUU_IVP_LAND_448x252_2023914_184322.jpg",
-      "director": [
-        "Vathani Kunasegarran"
-      ],
-      "cast": [
-        "Ravin Rao Hamsni Perumal"
-      ],
-      "year": "2023"
-    },
-    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3f40b9fe-23c6-5fc0-a842-a3a781092324/default_primary.mpd",
-    "drm": "clearkey",
-    "drmkey": "766ec0849f12e68389fc223e991e3310:767a05ae68cea16539c8160e73344ae1"
-  },
-  {
-    "name": "Vishwaroopam 2",
-    "category": "VOD Indian",
-    "info": {
-      "poster": "https://is.gd/fXM3sc",
-      "bg": "https://is.gd/fXM3sc",
-      "plot": "Selepas gagal melaksanakan serangan pengganas paling maut di bandar New York, Omar mempunyai satu lagi rancangan berbahaya. Sementara itu, tentera yang bertukar menjadi pengintip Mejar Wisam Ahmad Kashmiri, isteri ahli onkologi nuklearnya Nirupama, rakan kerjanya Ashmita Sunbramanium dan Kolonel Jagannath bekerjasama untuk menggagalkan permainan balas dendam Omar.",
-      "backdrop": "https://is.gd/fXM3sc",
-      "director": [
-        "Kamal Haasan"
-      ],
-      "cast": [
-        "Kamal Haasan",
-        "Rahul Bose",
-        "Pooja Kumar"       
-      ],
-      "year": "2018"
-    },
-    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d62a15e5-f75d-5c91-92a9-a89552e44185/default_primary.mpd",
-    "drm": "clearkey",
-    "drmkey": "8a28caefa98f3bcedbe89dfa22263b10:1fffa7ec701d77213117c629fbd85da8"
-  },
-  {
-    "name": "Jango",
-    "category": "VOD Indian",
-    "info": {
-      "poster": "https://is.gd/iptN7U",
-      "bg": "https://is.gd/iptN7U",
-      "plot": "Seorang pakar bedah saraf yang terperangkap dalam gelung masa cuba menyelamatkan isterinya yang terasing daripada dibunuh oleh lelaki misteri.",
-      "backdrop": "https://is.gd/iptN7U",
-      "director": [
-        "Mano Karthikeyan"
-      ],
-      "cast": [
-        "Satheesh Kumar"
-      ],
-      "year": "2021"
-    },
-    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/30bcecc3-8c3f-591c-a7be-94f043718052/default_primary.mpd",
-    "drm": "clearkey",
-    "drmkey": "6da7bc5c8133354a51caf5fefac16210:a065302ef653be509c6aa2a622242e3c"
-  },
-  {
-    "name": "Senthozhan Sengkathirvaanan",
-    "category": "VOD Indian",
-    "info": {
-      "poster": "https://is.gd/avgpGF",
-      "bg": "https://is.gd/avgpGF",
-      "plot": "Kisah yang menegangkan ini berkisar tentang seorang lelaki muda yang menghidap gangguan bipolar, gangguan psikologi dan mentalnya menyebabkan dia berasa sangat cemas dan putus asa. Penggemar rahsianya ingin membantunya mengatasi halangannya tetapi menemui lebih banyak cerita apabila rahsia yang lebih gelap dan lebih berbahaya terbongkar. Kehidupan menjadi terbalik lebih jauh apabila dia menyaksikan sesuatu yang dia tidak sengaja.",
-      "backdrop": "https://is.gd/avgpGF",
-      "director": [
-        "Govind Singh"
-      ],
-      "cast": [
-        "Kash Villanz",
-        "Moon Nila"
+        "Karnan G. Crack",
+        "Punitah Shanmugam"       
       ],
       "year": "2022"
     },
-    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/89dd5d0d-3659-5be2-b287-900612ff4b2e/default_primary.mpd",
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/06cb7fe6-3c44-5c41-bbc4-364e32497f60/default.mpd",
     "drm": "clearkey",
-    "drmkey": "2580e4aad352d44af50b553f86d55210:f111f32652d6722ef3f40f4b1bf8d587"
+    "drmkey": "55eae4773e0779c8892bac0b97804a10:ad4ac682d2008c498d3b602be2c8eda3"
   }
-  
 ]
+  
