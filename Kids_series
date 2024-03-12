@@ -92,7 +92,71 @@
 			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0408f5b1-0303-51a4-8b1e-15b0de602aa6/default.mpd",
             "drm": "clearkey",
             "drmkey": "11198bb1aa82b4767c69ef87ddab5d10:b352b32b03af2c21d4d27e1eebb59363"
-           
+            },
+            {
+                    "episode": 6,
+                    "name": "Episod 6",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Beerus dan Whis tiba di Bumi, mencari jawapan tentang Dewa Super Saiyan daripada Saiyan pada majlis hari jadi Bulma. Vegeta masih ingat episod menakutkan antara Beerus dan bapanya.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/791c93f8-04f5-5e59-9165-854d1d41586a/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "cc841b1311c4090d7ee605391ed35310:7b7e066176595c6af6a0b52ab19574d8"
+            },
+            {
+                    "episode": 7,
+                    "name": "Episod 7",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Selepas Buu memulakan pergaduhan dengan Beerus mengenai puding, Gotenks, Piccolo, A18, Tien dan Gohan semua cuba untuk menghentikan Beerus, tetapi mereka semua mudah ditumbangkan tanpa Beerus mencuba.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/103865bd-17a7-58cf-b390-fc216ae27a96/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "a89a1a0730b11915aa4f8261f6c2ef10:26fbe41f3bc6784197c1a7d8ff6aa293"
+            },
+            {
+                    "episode": 8,
+                    "name": "Episod 8",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Dikuasakan Vegeta mengenakan Beerus, yang dengan mudah mengetuknya. Sama seperti dia akan memusnahkan Bumi, Beerus mempunyai idea yang suka bermain. Dia memilih Oolong daripada orang ramai dan mencabarnya untuk batu, kertas, gunting.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/08597809-1f0c-5782-9f44-3be03e425258/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "e0c18245adcfb65c266a6b98d0017110:8cb108f35f30c5e63eda939e1d093aa4"
+            },
+            {
+                    "episode": 9,
+                    "name": "Episod 9",
+                    "info": {
+						"poster": "http://is.gd/7rcyx2",
+						"bg": "http://is.gd/7rcyx2", 
+						"plot": "Sebagai usaha terakhir, Goku memanggil Shenron si naga dan memintanya menghantar Dewa Super Saiyan untuk menenangkan Beerus dan menghalangnya daripada memusnahkan Bumi.", 
+						"backdrop": "http://is.gd/7rcyx2",
+						"director": ["Akira Toriyama"],
+						"cast": ["Masako Nozawa","Naoki Tatsuta","Sean Schemmel","Ryo Horikawa"],
+						"year": "2015"
+						},
+			"video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9faa989e-de65-5564-95e6-e638ae0f9c30/default.mpd",
+            "drm": "clearkey",
+            "drmkey": "ae337ff159e996a36ffab9b559784010:e0cf7fe7ce991d69b9f059640010147d"
+                      
            }
         ]
       }
