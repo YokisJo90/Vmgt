@@ -3,26 +3,26 @@
     "name": "Kampong Pisang Berbuah Dua Kali",
     "category": "VOD Malay",
     "info": {
-      "poster": "https:\/\/is.gd\/3cBYtt",
-      "bg": "https:\/\/is.gd\/3cBYtt",
-      "plot": "Millie Bobby Brown membintangi sebagai Puteri Elodie, yang menerima lamaran perkahwinan hanya untuk menyedari bahawa dia digunakan untuk membayar balik hutang keluarga diraja, dan kini mesti melarikan diri sambil terselamat daripada serangan naga yang mengintai di jurang.",
-      "backdrop": "https:\/\/is.gd\/3cBYtt",
+      "poster": "https://is.gd/MgYoCK",
+      "bg": "https://is.gd/MgYoCK",
+      "plot": "Seorang nelayan bernama Cik Gerhana, yang juga adik kepada Cik Purnama, jatuh cinta dengan seorang gadis yang ditemuinya dalam satu upacara perayaan di Kampong Pisang. Pada masa yang sama, misteri masih berlegar di sekitar Kampong Pisang mengenai kemunculan Hantu Kum Kum yang menyasarkan bayi yang baru lahir. Keadaan menjadi lebih rumit apabila roh bekas penghibur Mak Yong bernama Cik Mek meninggal dunia muda dan berusaha untuk membalas dendam kematiannya di Kampong Pisang.",
+      "backdrop": "https://is.gd/MgYoCK",
       "director": [
-        "Juan Carlos Fresnadillo"
+        "Amin Khalid"
       ],
       "cast": [
-        "Millie Bobby Brown",
-        "Ray Winstone",
-        "Nick Robinson",
-        "Shohreh Aghdashloo",
-        "Angela Bassett",
-        "Robin Wright"
+        "Bell Ngasri",
+        "Eina Azman",
+        "Joey Daud",
+        "Mat London",
+        "Aziz M. Osman",
+        "Kazar Saisi"
       ],
-      "year": "2024"
+      "year": "2022"
     },
-    "video": "https:\/\/pub-4ece74ddd9aa4c3d9e5819df70248d62.r2.dev\/Damsel.2024.720p.mp4",
-    "drm": "",
-    "drmkey": ""
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c2b26fe8-5577-5d61-b9e6-9126e3c062e0/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "6ab5bc0460b9ebb6b9dbcfcef6c12710:bb9651b2f15c8c09a9c04d17cca80536"
   }
  ]
     
