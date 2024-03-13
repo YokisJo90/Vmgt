@@ -293,6 +293,31 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/43fe2022-5018-53ff-932e-9257939cc6d8/default.mpd",
     "drm": "clearkey",
     "drmkey": "f46d3e8f34f9cc14244b5f8750dec910:e2fd4f8388ceadae0381ada57419570e"
+  },
+  {
+    "name": "Jawan",
+    "category": "VOD Indian",
+    "info": {
+      "poster": "https://is.gd/6mS7sZ",
+      "bg": "https://is.gd/6mS7sZ",
+      "plot": "Seorang warden penjara merekrut banduan untuk melakukan jenayah keterlaluan yang menjelaskan rasuah dan ketidakadilan - dan yang membawanya ke pertemuan semula yang tidak dijangka.",
+      "backdrop": "https://is.gd/6mS7sZ",
+      "director": [
+        "Atlee"
+      ],
+      "cast": [
+        "Shah Rukh Khan",
+        "Nayanthara",
+        "Vijay Sethupathi",
+        "Deepika Padukone",
+        "Sanjay Dutt",
+        "Priyamani"
+      ],
+      "year": "2023"
+    },
+    "video": "https://betul.awak.gay/RIPPING/NF/Jawan.2023.Extended.Cut.1080p.NF.WEB-DL.DDP5.1.HEVC.x265-NOGRP.mkv?fbclid=IwAR1hyoAGazY5Q1TekASSEVu4EWojdPJ25XKeb6v4hBoK3Skold1GxwUh-58",
+    "drm": "",
+    "drmkey": ""
   }
 ]
   
