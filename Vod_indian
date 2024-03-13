@@ -318,6 +318,31 @@
     "video": "https://is.gd/h1zBCN",
     "drm": "",
     "drmkey": ""
+},
+  {
+    "name": "Tiger 3",
+    "category": "VOD Indian",
+    "info": {
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f8/Tiger_3_poster.jpg",
+      "bg": "https://upload.wikimedia.org/wikipedia/en/f/f8/Tiger_3_poster.jpg",
+      "plot": "Tiger dan pasukannya menghadapi satu lagi ancaman yang akan membahayakan negara. Pasukan itu mesti mengatasi banyak halangan di sepanjang laluan mereka untuk menghentikan Aatish dan perancangannya untuk menggoncang dunia. Bersama dengan penipuan, cinta, dan patriotisme, Harimau mesti menerima dan menakluki semua cabaran dan kejutan yang datang untuk menyelamatkan negaranya.",
+      "backdrop": "https://upload.wikimedia.org/wikipedia/en/f/f8/Tiger_3_poster.jpg",
+      "director": [
+        "Maneesh Sharma"
+      ],
+      "cast": [
+        "Salman Khan",
+        "Katrina Kaif",
+        "Emraan Hashmi",
+        "Simran",
+        "Kumud Mishra",
+        "Ranvir Shorey"
+      ],
+      "year": "2023"
+    },
+    "video": "https://onedrive.live.com/download?resid=BD5E5B094EF744C0%21106&authkey=!AHaIZwoThVGqiFY",
+    "drm": "",
+    "drmkey": ""
   }
 ]
   
