@@ -23,8 +23,30 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c2b26fe8-5577-5d61-b9e6-9126e3c062e0/default.mpd",
     "drm": "clearkey",
     "drmkey": "6ab5bc0460b9ebb6b9dbcfcef6c12710:bb9651b2f15c8c09a9c04d17cca80536"
-  }
- ]
+  },
+  {
+    "name": "From Kinabalu With Love",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://is.gd/qE19Pw",
+      "bg": "https://is.gd/qE19Pw",
+      "plot": "Filem ini mengisahkan cinta dan pengorbanan semasa era Pendudukan Jepun antara seorang pegawai Inggeris dan seorang gadis tempatan di Sabah. Selepas dia diselamatkan oleh gadis tempatan bernama Onduri daripada tentera Jepun yang memburu dan ingin membunuhnya, lelaki Inggeris itu kembali ke England untuk berkahwin dengan teman wanitanya. Tetapi dia telah berkahwin dengan lelaki lain. Dengan rasa kecewa, dia pulang ke Sabah untuk mencari Onduri. Dilengkapi dengan rantai Dalai dan bantuan seorang wartawan, adakah dia akan menemui Onduri?",
+      "backdrop": "https://is.gd/qE19Pw",
+      "director": [
+        "Marlin Brando Malalin"
+      ],
+      "cast": [
+        "Enn Xaviera",
+        "Yusri John",
+        "Wan Wala"        
+      ],
+      "year": "2023"
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9ba6c0d4-858b-5a55-9136-071dbfc2d7b8/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "16df2e3fd7834d8e99fb2ddd2676ff10:ab8f1ba33621df7689a3a32ba415f1b9" 
+ }
+]
     
         
 
