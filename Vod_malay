@@ -67,6 +67,30 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f58bfadf-e804-5a97-95d9-2d952db668d7/default.mpd",
     "drm": "clearkey",
     "drmkey": "57531a71bdd9621d812406d9e1a68a10:4142d81978e30ab93d0a3a01c37ab396" 
+  },
+  {
+    "name": "Juang",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://is.gd/8TYmTX",
+      "bg": "https://is.gd/8TYmTX",
+      "plot": "Himpunan kisah bagaimana rakyat Malaysia menghadapi pandemik Covid-19.",
+      "backdrop": "https://is.gd/8TYmTX",
+      "director": [
+        "Osman Ali",
+        "Kabir Bhatia",
+        "Yusry Abd Halim"
+      ],
+      "cast": [
+        "Zul Ariffin",
+        "Zizan Razak",
+        "Izzue Islam"        
+      ],
+      "year": "2022"
+    },
+    "video": "https://a19avoddashs3ww-a.akamaihd.net/d/2$gg_oxAHprugC0BTTSNgQxBFYGH0~/ondemand/ww_nrt/d9b9/0f99/6624/4137-ba37-28409b5bced5/4a96698a-0870-4b71-8c20-06f5292c87bc_corrected.mpd?encoding=segmentBase",
+    "drm": "clearkey",
+    "drmkey": "b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","c009f07bbb9849e389b2d306e5ebe8b1":"7965baf256da81d42ce947f5b0e443a3","94162adb47a14de694183476e3514c20":"953087d349871421ecf32ed372f99d3f" 
  }
 ]
     
