@@ -45,6 +45,28 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9ba6c0d4-858b-5a55-9136-071dbfc2d7b8/default.mpd",
     "drm": "clearkey",
     "drmkey": "16df2e3fd7834d8e99fb2ddd2676ff10:ab8f1ba33621df7689a3a32ba415f1b9" 
+  },
+  {
+    "name": "Hantu Gangster",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://is.gd/tWiNmi",
+      "bg": "https://is.gd/tWiNmi",
+      "plot": "3 kumpulan gangster Melayu, Cina dan India telah memerintah sebuah bandar tempatan di Malaysia. Selepas 3 pemimpin itu mati secara misteri, setiap anak lelaki mereka mula merasakan kebencian yang semakin meningkat antara satu sama lain. Siapa yang boleh menyelamatkan hari ini?",
+      "backdrop": "https://is.gd/tWiNmi",
+      "director": [
+        "Namewee"
+      ],
+      "cast": [
+        "Namewee",
+        "Farid Kamil",
+        "Diana Danielle"        
+      ],
+      "year": "2012"
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f58bfadf-e804-5a97-95d9-2d952db668d7/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "57531a71bdd9621d812406d9e1a68a10:4142d81978e30ab93d0a3a01c37ab396" 
  }
 ]
     
