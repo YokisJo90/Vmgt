@@ -69,6 +69,29 @@
     "drmkey": "57531a71bdd9621d812406d9e1a68a10:4142d81978e30ab93d0a3a01c37ab396" 
   },
   {
+    "name": "The Lord Musang King",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://is.gd/UC8ZOF",
+      "bg": "https://is.gd/UC8ZOF",
+      "plot": "Haikal, anak kepada seorang petani buah yang berjaya Samad, telah dibingkai dan dipenjarakan atas kesalahan yang tidak dilakukannya. Bapanya membuat perjanjian dengan seorang ahli perniagaan Korea Selatan dan berjanji untuk membeli syarikatnya sebagai pertukaran untuk membantu mengeluarkan Haikal dari penjara. Malangnya, Samad dibunuh sebelum perjanjian dibuat, dan Haikal yang kini dibebaskan bermati-matian mahu mencari jalan untuk mencari keadilan dan pembalasan.",
+      "backdrop": "https://is.gd/UC8ZOF",
+      "director": [
+        "Lee Moon Ho"
+      ],
+      "cast": [
+        "Yusuf Bahrin",
+        "Eddie Chow",
+        "Fimie Don"  
+        "Hafidzuddin Fazil"      
+      ],
+      "year": "2023"
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/fa551b91-a2b2-501b-b3af-3a8d48789e03/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "8a54e9bd1b6873533f7a98036fdd0a10:cbc070e827c5967b31258a44ec7d4ff0" 
+  },
+  {
     "name": "Juang",
     "category": "VOD Malay",
     "info": {
