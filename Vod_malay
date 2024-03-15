@@ -185,6 +185,29 @@
     "drmkey": "d2d972774c12b25aeb8b9f242faf3610:3798db1290fa8f87c0ecdbbf0d606799"
   },
   {
+    "name": "Gemencheh Boys",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://is.gd/QhXS8H",
+      "bg": "https://is.gd/QhXS8H",
+      "plot": "Kisah yang menyentuh hati tentang pasukan kriket sekolah rendah di Gemencheh, Negeri Sembilan. Apa yang bermula sebagai aktiviti 'kelas tahanan' hukuman, 6 budak belajar membentuk diri mereka menjadi pelajar, atlet dan insan yang lebih baik dengan bimbingan daripada jurulatih mereka yang tegas dan berdedikasi, Cikgu Azman.",
+      "backdrop": "https://is.gd/QhXS8H",
+      "director": [
+        "Jason Chong",
+        "Eric Ong"
+      ],
+      "cast": [
+        "Pekin Ibrahim",
+        "Aqil Yaya",
+        "Syed Ahmad"        
+      ],
+      "year": "2023"
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-4b11-571a-8e4d-23fb37be426f/default_primary.mpd",
+    "drm": "clearkey",
+    "drmkey": "b495e858f006b2b19bcd3afc41f1a610:37bd595f477a87700e576ec0d219668c"
+  },
+  {
     "name": "Juang",
     "category": "VOD Malay",
     "info": {
