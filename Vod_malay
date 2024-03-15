@@ -260,6 +260,31 @@
     "drmkey": ""
   },
   {
+    "name": "Hantu Kak Limah 3",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://i.postimg.cc/x8mVNmnL/Hantu-Kak-Limah-3.jpg",
+      "bg": "https://i.postimg.cc/x8mVNmnL/Hantu-Kak-Limah-3.jpg",
+      "plot": "Kak Limah ditemui mati oleh penduduk kampung. Sejak itu, hantunya dikesan di sekitar Kampung Pisang membuatkan penduduk kampung berasa resah. Masuklah Encik Solihin yang cuba menolong dengan menghalau hantunya dari kampung. Husin, Encik Solihin dan penduduk kampung yang lain berusaha untuk mengatasi masalah ini. Namun, tragedi di sebalik kematian Kak Limah masih belum terbongkar.",
+      "backdrop": "https://i.postimg.cc/x8mVNmnL/Hantu-Kak-Limah-3.jpg",
+      "director": [
+        "Mamat Khalid"
+      ],
+      "cast": [
+        "Awie",
+        "Zul Ariffin",
+        "Delimawati",
+        "Ropie",
+        "Uqasha Senrose"    
+      ],
+      "country": [ "Malaysia" ],
+      "year": "2018"
+    },
+    "video": "https://onedrive-bdfsds.vercel.app/api/raw/?path=/Movies/Hantu-Kak-Limah.3.2018.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4",
+    "drm": "",
+    "drmkey": ""
+  },
+  {
     "name": "Juang",
     "category": "VOD Malay",
     "info": {
