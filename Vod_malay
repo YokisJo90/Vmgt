@@ -233,6 +233,31 @@
     "drmkey": "74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8"
   },
   {
+    "name": "Hantu Kak Limah 2 : Husin Mon & Jin Pakai Toncit",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://i.postimg.cc/4NvnrRZX/Husin-Mon-dan-Jin-Pakai-Toncit.jpg",
+      "bg": "https://i.postimg.cc/4NvnrRZX/Husin-Mon-dan-Jin-Pakai-Toncit.jpg",
+      "plot": "Husin kembali ke kampung halaman, Kg. Pisang selepas muflis di Singapura. Di Kg. Pisang, dia berjumpa dengan bekas kekasihnya Mon yang kelihatan pelik seperti cuba menyembunyikan sesuatu daripadanya. Kemudian, seorang lelaki misteri Dr Shamsuddin datang ke kampungnya untuk membantu penduduk kampung. Apa yang berlaku sebenarnya? Semua kejadian aneh ini ada kaitan dengan Kg. Sejarah Pisang 100 tahun dahulu.",
+      "backdrop": "https://i.postimg.cc/4NvnrRZX/Husin-Mon-dan-Jin-Pakai-Toncit.jpg",
+      "director": [
+        "Mamat Khalid"
+      ],
+      "cast": [
+        "Awie",
+        "Azwan Annuar",
+        "Delimawati",
+        "Ezlynn",
+        "Zami Ismail"    
+      ],
+      "country": [ "Malaysia" ],
+      "year": "2010"
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd",
+    "drm": "clearkey",
+    "drmkey": "74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8"
+  },
+  {
     "name": "Juang",
     "category": "VOD Malay",
     "info": {
@@ -255,7 +280,7 @@
     },
     "video": "https://a19avoddashs3ww-a.akamaihd.net/d/2$gg_oxAHprugC0BTTSNgQxBFYGH0~/ondemand/ww_nrt/d9b9/0f99/6624/4137-ba37-28409b5bced5/4a96698a-0870-4b71-8c20-06f5292c87bc_corrected.mpd?encoding=segmentBase",
     "drm": "clearkey",
-    "drmkey": "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f:c009f07bbb9849e389b2d306e5ebe8b1:7965baf256da81d42ce947f5b0e443a3:94162adb47a14de694183476e3514c20:953087d349871421ecf32ed372f99d3f"
+    "drmkey": "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f;c009f07bbb9849e389b2d306e5ebe8b1:7965baf256da81d42ce947f5b0e443a3;94162adb47a14de694183476e3514c20:953087d349871421ecf32ed372f99d3f"
  }
 ]
     
