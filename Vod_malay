@@ -208,6 +208,30 @@
     "drmkey": "b495e858f006b2b19bcd3afc41f1a610:37bd595f477a87700e576ec0d219668c"
   },
   {
+    "name": "Hantu Kak Limah Balik Rumah",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://is.gd/Ve6QZ7",
+      "bg": "https://is.gd/Ve6QZ7",
+      "plot": "Husin sudah lama bekerja di Singapura dan mengambil keputusan untuk pulang ke kampung halamannya, Kampung Pisang. Apabila pulang, dia merasakan jirannya Mak Limah pelik kerana dia tidak bercakap dan tidak tidur. Dia kemudian memberitahu pelanggan di kedai kopi Pak Munawer bahawa Mak Limah mungkin hantu. Pak Abu memutuskan mereka perlu menyiasat lebih lanjut tetapi apabila mereka pergi ke rumahnya, dia sudah menjadi mayat reput. Namun, keadaan menjadi lebih menarik apabila kampung itu dihantui kejadian aneh, walaupun Mak Limah dikebumikan.",
+      "backdrop": "https://is.gd/Ve6QZ7",
+      "director": [
+        "Mamat Khalid"
+      ],
+      "cast": [
+        "Awie",
+        "Ummi Nazeera",
+        "Johan Raja Lawak",
+        "Usop Wilcha",
+        "Zami Ismail"    
+      ],
+      "year": "2010"
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd",
+    "drm": "clearkey",
+    "drmkey": "74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8"
+  },
+  {
     "name": "Juang",
     "category": "VOD Malay",
     "info": {
