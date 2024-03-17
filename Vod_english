@@ -229,6 +229,32 @@
     "drmkey": "d1c88a90651d1afe62ba6f5c3eebdb10:4c8ab4165be0dce7c1da2d866c8822a3"
   },
   {
+    "name": "Spider-Man No Way Home",
+    "category": "VOD English",
+    "info": {
+      "poster": "https://is.gd/EDG3DP",
+      "bg": "https://is.gd/EDG3DP",
+      "plot": "Identiti rahsia Peter Parker didedahkan kepada seluruh dunia. Terdesak untuk mendapatkan bantuan, Peter beralih kepada Doktor Strange untuk membuat dunia lupa bahawa dia adalah Spider-Man. Mantra itu menjadi sangat salah dan menghancurkan multiverse, membawa masuk penjahat besar yang boleh memusnahkan dunia.",
+      "backdrop": "https://is.gd/EDG3DP",
+      "director": [
+        "Jon Watts"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch",
+        "Jacob Batalon",
+        "Jon Favreau"
+      ],
+      "year": "2021",
+      "country": [ "United States" ],
+      "Film Locations": [ "Iceland" ]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/52814aad-287e-5085-acc2-dad1dc2547d3/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "0669dcfd7dc24f899f40c56935848b10:2608ceccaf74f73f677167d599e980f3"
+  },
+  {
     "name": "The Foreigner",
     "category": "VOD English",
     "info": {
