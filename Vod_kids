@@ -23,5 +23,55 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d2f913ec-6bef-5d4c-b4e6-488de10eb6ec/default.mpd",
     "drm": "clearkey",
     "drmkey": "1cb4efb7f886aec4f5a00090f3970410:6c658afc724b236f659a033988adbf7d"
+  },
+  {
+    "name": "Wish",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/gI658M",
+      "bg": "https://is.gd/gI658M",
+      "plot": "Seorang gadis muda bernama Asha mengharapkan bintang dan mendapat jawapan yang lebih langsung daripada yang dia tawarkan apabila bintang yang membuat masalah turun dari langit untuk menyertainya.",
+      "backdrop": "https://is.gd/gI658M",
+      "director": [
+        "Chris Buck","Fawn Veerasunthorn"
+      ],
+      "cast": [
+        "Ariana DeBose",
+        "Chris Pine",
+        "Alan Tudyk",
+        "Angelique Cabral",
+        "Victor Garber"
+      ],
+      "year": "2023",
+      "country": [ "United States" ]
+    },
+    "video": "https://onedrive.live.com/download?resid=4EBB54B88946EB31%21107&authkey=!AC1SrIoBxbASseE",
+    "drm": "",
+    "drmkey": ""
+  },
+  {
+    "name": "Mechamato [JP Audio]",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/GXKh1Y",
+      "bg": "https://is.gd/GXKh1Y",
+      "plot": "Selepas nahas kapal angkasa misterius mendarat di Bumi, seorang budak lelaki bernama Amato terserempak dengan robot berkuasa bernama MechaBot. Dengan mengakali MechaBot dan menjadi tuannya, Amato kini boleh menggunakan keupayaan unik MechaBot untuk Mekanisasi objek harian menjadi peranti berteknologi tinggi. Tanpa diketahuinya, MechaBot sedang diburu oleh makhluk asing sibernetik bernama Grakakus yang akan melakukan apa sahaja untuk memperoleh MechaBot atas rancangan jahatnya sendiri.",
+      "backdrop": "https://is.gd/GXKh1Y",
+      "director": [
+        "Nizam Razak","Dzubir Mohamed Zakaria"
+      ],
+      "cast": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "year": "2024",
+      "country": [ "Malaysia" ]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b993ed38-e1f6-5a2d-98ec-9d5aed2b8da9/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "f6969948580d78774899bdc986594e10:07ff68a646e5845f0af144b96649875d"
   }
 ]
