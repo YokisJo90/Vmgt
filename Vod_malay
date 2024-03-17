@@ -359,6 +359,29 @@
     "video": "https://onedrive-bdfsds.vercel.app/api/raw/?path=/Movies/Jaga-Jaga.Senariounion.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4",
     "drm": "",
     "drmkey": ""
+   },
+   {
+    "name": "khaenak Serangan Pocong",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://i.postimg.cc/zvRB03Sk/khaenak-Serangan-Pocong.jpg",
+      "bg": "https://i.postimg.cc/zvRB03Sk/khaenak-Serangan-Pocong.jpg",
+      "plot": "Komposer Apak dan isterinya, Yana pulang ke kampung untuk mendapatkan inspirasi lagu baharu mereka. Penduduk kampung kemudiannya terganggu dengan kehadiran hantu pocong.",
+      "backdrop": "https://i.postimg.cc/zvRB03Sk/khaenak-Serangan-Pocong.jpg",
+      "director": [
+        "Emma Kasmuri"
+      ],
+      "cast": [
+        "Ryezal Apak",
+        "Diana Ezety",
+        "Harry Khalifah"    
+      ],
+      "country": [ "Malaysia" ],
+      "year": "2021"
+    },
+    "video": "https://onedrive-bdfsds.vercel.app/api/raw/?path=/Movies/khaenak%20serangan%20pocong%20convert.mp4",
+    "drm": "",
+    "drmkey": ""
   },
   {
     "name": "Juang",
