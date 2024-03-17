@@ -98,5 +98,55 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/de3b6e04-77cf-5e7f-93f4-a59d23cd63ae/default.mpd",
     "drm": "clearkey",
     "drmkey": "01b22e0d0313a82d08ca945cf07a8e10:3ddb26ead2aa0ba541d5bb29fcf512ed"
+    },
+    {
+    "name": "Trolls World Tour",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/nveuxe",
+      "bg": "https://is.gd/nveuxe",
+      "plot": "Apabila Ratu Troll Hard Rock cuba mengambil alih semua kerajaan Troll, Ratu Poppy dan rakan-rakannya mencuba cara yang berbeza untuk menyelamatkan semua Troll.",
+      "backdrop": "https://is.gd/nveuxe",
+      "director": [
+        "David P. Smith","Walt Dohrn"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Justin Timberlake",
+        "Rachel Bloom",
+        "James Corden",
+        "Ron Funches"
+      ],
+      "year": "2020",
+      "country": [ "United States","Japan","Australia" ]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ed06eed0-e971-561d-a834-789fa388e6b9/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "f4b6a3e480f4fe63cd0dfed97cd22b10:6abf886defa2deaeefbb2c0fafd35483"
+    },
+    {
+    "name": "Trolls Band Together",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/oUqvlC",
+      "bg": "https://is.gd/oUqvlC",
+      "plot": "Poppy mendapati bahawa Branch pernah menjadi sebahagian daripada kumpulan lelaki 'BroZone' bersama abang-abangnya, Floyd, John Dory, Spruce dan Clay. Apabila Floyd diculik, Branch dan Poppy memulakan perjalanan untuk menyatukan semula dua abangnya yang lain dan menyelamatkan Floyd",
+      "backdrop": "https://is.gd/oUqvlC",
+      "director": [
+        "Tim Heitz","Walt Dohrn"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Justin Timberlake",
+        "Kenan Thompson",
+        "Walt Dohrn",
+        "Anderson .Paak"
+      ],
+      "year": "2023",
+      "country": [ "United States" ]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9786c9a9-3473-56f1-86e1-fce2726985d6/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "90f51af1a6d3051c10a1d194eca62f10:fc210a9a8b4781509ec7de37d3318bcf"
   }
 ]
