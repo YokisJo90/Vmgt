@@ -255,6 +255,31 @@
     "drmkey": "0669dcfd7dc24f899f40c56935848b10:2608ceccaf74f73f677167d599e980f3"
   },
   {
+    "name": "Insidious: The Red Door",
+    "category": "VOD English",
+    "info": {
+      "poster": "https://is.gd/7I2Eio",
+      "bg": "https://is.gd/7I2Eio",
+      "plot": "The Lamberts mesti pergi lebih dalam ke The Further berbanding sebelum ini untuk meletakkan syaitan mereka untuk berehat sekali dan untuk semua.",
+      "backdrop": "https://is.gd/7I2Eio",
+      "director": [
+        "Patrick Wilson"
+      ],
+      "cast": [
+        "Ty Simpkins",
+        "Patrick Wilson",
+        "Rose Byrne",
+        "Sinclair Daniel",
+        "Hiam Abbass"
+      ],
+      "year": "2023",
+      "country": [ "United States","Canada" ]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/67640129-a270-5649-a2fa-0255b5bec87c/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "267e0fe89facf5954b876fbdb4bb2f10:f92009db0d987ad7c3342e140e3ad926"
+  },
+  {
     "name": "The Foreigner",
     "category": "VOD English",
     "info": {
