@@ -73,5 +73,30 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b993ed38-e1f6-5a2d-98ec-9d5aed2b8da9/default.mpd",
     "drm": "clearkey",
     "drmkey": "f6969948580d78774899bdc986594e10:07ff68a646e5845f0af144b96649875d"
+   },
+   {
+    "name": "Trolls: 1",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/iUBSkO",
+      "bg": "https://is.gd/iUBSkO",
+      "plot": "Selepas Bergens menyerang Perkampungan Troll, Poppy, Troll paling gembira pernah dilahirkan, dan Cawangan curmudgeonly memulakan perjalanan untuk menyelamatkan rakan-rakannya.",
+      "backdrop": "https://is.gd/iUBSkO",
+      "director": [
+        "Mike Mitchell","Walt Dohrn"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Justin Timberlake",
+        "Zooey Deschanel",
+        "Christopher Mintz-Plasse",
+        "Christine Baranski"
+      ],
+      "year": "2016",
+      "country": [ "United States","India","United Kingdom","Germany" ]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/de3b6e04-77cf-5e7f-93f4-a59d23cd63ae/default.mpd",
+    "drm": "clearkey",
+    "drmkey": "01b22e0d0313a82d08ca945cf07a8e10:3ddb26ead2aa0ba541d5bb29fcf512ed"
   }
 ]
