@@ -384,6 +384,29 @@
     "drmkey": ""
   },
   {
+    "name": "Malbatt Misi Bakara",
+    "category": "VOD Malay",
+    "info": {
+      "poster": "https://i.postimg.cc/25sctK4N/Malbatt-Misi-Bakara-2023.jpg",
+      "bg": "https://i.postimg.cc/25sctK4N/Malbatt-Misi-Bakara-2023.jpg",
+      "plot": "Kisah Batalion Ke-19 Rejimen Askar Melayu, yang ditempatkan sebagai sebahagian daripada pasukan pengaman Pertubuhan Bangsa-Bangsa Bersatu pada 1993, dan misi mereka untuk menyelamatkan tentera Amerika yang terperangkap berikutan serangan Black Hawk Down.",
+      "backdrop": "https://i.postimg.cc/25sctK4N/Malbatt-Misi-Bakara-2023.jpg",
+      "director": [
+        "Adrian Teh"
+      ],
+      "cast": [
+        "Bront Palarae",
+        "Shaheizy Sam",
+        "Hairul Azreen"    
+      ],
+      "country": [ "Malaysia" ],
+      "year": "2023"
+    },
+    "video": "https://onedrive-bdfsds.vercel.app/api/raw/?path=/Movies/Malbatt.Misi.Bakara.2021.1080p.NF.WEB-DL.DDP5.1.H.264-AstradaMY.mkv",
+    "drm": "",
+    "drmkey": ""
+  },
+  {
     "name": "Juang",
     "category": "VOD Malay",
     "info": {
