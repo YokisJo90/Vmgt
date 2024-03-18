@@ -148,5 +148,80 @@
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9786c9a9-3473-56f1-86e1-fce2726985d6/default.mpd",
     "drm": "clearkey",
     "drmkey": "90f51af1a6d3051c10a1d194eca62f10:fc210a9a8b4781509ec7de37d3318bcf"
+    },
+    {
+    "name": "Transylvania 1",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/MJmqGL",
+      "bg": "https://is.gd/MJmqGL",
+      "plot": "Dracula, yang mengendalikan pusat peranginan mewah yang jauh dari dunia manusia, memasuki mod perlindungan berlebihan apabila seorang budak lelaki menemui resort itu dan jatuh cinta kepada anak perempuan kiraan itu.",
+      "backdrop": "https://is.gd/MJmqGL",
+      "director": [
+        "Genndy Tartakovsky"
+      ],
+      "cast": [
+        "Adam Sandler",
+        "Kevin James",
+        "Andy Samberg",
+        "Selena Gomez",
+        "Fran Drescher"
+      ],
+      "year": "2012",
+      "country": [ "United States","Canada" ]
+    },
+    "video": "https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hotel%20Transylvania%201.mp4",
+    "drm": "",
+    "drmkey": ""
+    },
+    {
+    "name": "Transylvania 2",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/qo9wQe",
+      "bg": "https://is.gd/qo9wQe",
+      "plot": "Dracula dan rakan-rakannya cuba membawa keluar raksasa itu dalam cucunya separuh manusia, separuh vampire untuk menghalang Mavis daripada meninggalkan hotel.",
+      "backdrop": "https://is.gd/qo9wQe",
+      "director": [
+        "Genndy Tartakovsky"
+      ],
+      "cast": [
+        "Adam Sandler",
+        "Andy Samberg",
+        "Selena Gomez",
+        "Kevin James",
+        "Steve Buscemi"
+      ],
+      "year": "2015",
+      "country": [ "United States","Canada" ]
+    },
+    "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62934374d940521074a6cb23_hbovodhd/dash0/MYS_DOLBY_index.mpd",
+    "drm": "clearkey",
+    "drmkey": "343868b6dff6582e5b6742e21f18597e:05275a1a5c0383094b6cbb8bd749bbc5"
+    },
+    {
+    "name": "Transylvania 3",
+    "category": "VOD Kids",
+    "info": {
+      "poster": "https://is.gd/cc0Y1v",
+      "bg": "https://is.gd/cc0Y1v",
+      "plot": "Count Dracula dan syarikat mengambil bahagian dalam pelayaran untuk raksasa yang mencintai laut, tanpa menyedari bahawa bot mereka sedang dikuasai oleh keluarga Van Helsing yang membenci raksasa.",
+      "backdrop": "https://is.gd/cc0Y1v",
+      "director": [
+        "Genndy Tartakovsky"
+      ],
+      "cast": [
+        "Adam Sandler",
+        "Andy Samberg",
+        "Selena Gomez",
+        "Kevin James",
+        "Steve Buscemi"
+      ],
+      "year": "2018",
+      "country": [ "United States","South Korea" ]
+    },
+    "video": "https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hotel%20Transylvania%203.mp4",
+    "drm": "l",
+    "drmkey": ""
   }
 ]
