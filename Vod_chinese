@@ -23,6 +23,62 @@
     "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62578cd4d940521074a12ba2_hbovodhd/dash0/MYS_DOLBY_index.mpd",
     "drm": "clearkey",
     "drmkey": "0c99ea12e011fe147b7f3300b4769d8c:54eb83536f4bffcdde6f88f30ab6c2b0"
+   },
+   {
+    "name": "Shaolin Soccer",
+    "category": "VOD Chinese",
+    "info": {
+      "poster": "https://is.gd/z885zY",
+      "bg": "https://is.gd/z885zY",
+      "plot": "Seorang pengikut Shaolin muda bersatu semula dengan saudara-saudaranya yang tidak digalakkan untuk membentuk pasukan bola sepak menggunakan kemahiran seni mempertahankan diri mereka untuk kelebihan mereka.",
+      "backdrop": "https://is.gd/z885zY",
+      "director": [
+        "Stephen Chow"
+      ],
+      "cast": [
+        "Stephen Chow",
+        "Wei Zhao",
+        "Yat-Fei Wong",
+        "Man-Tat Ng",
+        "Yin Tse",
+        "Hui Li"
+      ],
+      "year": "2001"
+      "country": ["Hong Kong","China"]
+    },
+    "video": "https://cutt.ly/jstoreshaolinsoccer",
+    "drm": "",
+    "drmkey": ""
+   },
+   {
+    "name": "Shock Wave 2",
+    "category": "VOD Chinese",
+    "info": {
+      "poster": "https://is.gd/OroKAo",
+      "bg": "https://is.gd/OroKAo",
+      "plot": "Plot
+Gelombang Kejutan 2
+Ringkasan
+Seorang pakar pengganas dalam bahan letupan, yang kumpulannya telah dibongkar, membalas dendam. Dia mengancam untuk meletupkan terowong Hong Kong dengan ratusan tebusan. Anggota polis yang telah memukulnya sekali mesti menghalangnya lagi.",
+      "backdrop": "https://is.gd/OroKAo",
+      "director": [
+        "Herman Yau"
+      ],
+      "cast": [
+        "Andy Lau",
+        "Ching Wan Lau",
+        "Ni Ni",
+        "Kwan-Ho Tse",
+        "Ron Ng",
+        "Tak-Bun Wong"
+      ],
+      "year": "2020"
+      "country": ["Hong Kong","China"]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/51d70f2d-3df4-51e6-85e6-4f9621261de3/default_primary.mpd",
+    "drm": "clearkey",
+    "drmkey": "ac97c8f3f1a7a00a0eedcce5146f4a10:1f52b2fd3854120e99c763dc433bb232"
+   
   }
 ]
     
