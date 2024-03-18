@@ -78,7 +78,32 @@ Seorang pakar pengganas dalam bahan letupan, yang kumpulannya telah dibongkar, m
     "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/51d70f2d-3df4-51e6-85e6-4f9621261de3/default_primary.mpd",
     "drm": "clearkey",
     "drmkey": "ac97c8f3f1a7a00a0eedcce5146f4a10:1f52b2fd3854120e99c763dc433bb232"
-   
+   },
+   {
+    "name": "Kung Fu Hustle",
+    "category": "VOD Chinese",
+    "info": {
+      "poster": "https://is.gd/gK0MY0",
+      "bg": "https://is.gd/gK0MY0",
+      "plot": "Di Shanghai, China pada tahun 1940-an, seorang samseng wannabe bercita-cita untuk menyertai "Geng Kapak" yang terkenal manakala penduduk sebuah kompleks perumahan mempamerkan kuasa luar biasa dalam mempertahankan kawasan mereka.",
+      "backdrop": "https://is.gd/gK0MY0",
+      "director": [
+        "Stephen Chow"
+      ],
+      "cast": [
+        "Stephen Chow",
+        "Wah Yuen",
+        "Qiu Yuen",
+        "Siu-Lung Leung",
+        "Xiaogang Feng",
+        "Zhihua Dong"
+      ],
+      "year": "2004",
+      "country": ["Hong Kong","China","United States"]
+    },
+    "video": "https://cutt.ly/jstoreshaolinsoccer",
+    "drm": "",
+    "drmkey": ""
   }
 ]
     
