@@ -52,25 +52,29 @@
     "drmkey": "" 
   },
   {
-    "name": "Hantu Gangster",
+    "name": "Shock Wave 2",
     "category": "VOD Chinese",
     "info": {
-      "poster": "https://is.gd/tWiNmi",
-      "bg": "https://is.gd/tWiNmi",
-      "plot": "3 kumpulan gangster Melayu, Cina dan India telah memerintah sebuah bandar tempatan di Malaysia. Selepas 3 pemimpin itu mati secara misteri, setiap anak lelaki mereka mula merasakan kebencian yang semakin meningkat antara satu sama lain. Siapa yang boleh menyelamatkan hari ini?",
-      "backdrop": "https://is.gd/tWiNmi",
+      "poster": "https://is.gd/OroKAo",
+      "bg": "https://is.gd/OroKAo",
+      "plot": "Seorang pakar pengganas dalam bahan letupan, yang kumpulannya telah dibongkar, membalas dendam. Dia mengancam untuk meletupkan terowong Hong Kong dengan ratusan tebusan. Anggota polis yang telah memukulnya sekali mesti menghalangnya lagi.",
+      "backdrop": "https://is.gd/OroKAo",
       "director": [
-        "Namewee"
+        "Herman Yau"
       ],
       "cast": [
-        "Namewee",
-        "Farid Kamil",
-        "Diana Danielle"        
+        "Andy Lau",
+        "Ching Wan Lau",
+        "Ni Ni",
+        "Kwan-Ho Tse",
+        "Ron Ng",
+        "Tak-Bun Wong"        
       ],
-      "year": "2012"
+      "country": [ "Hong Kong","China" ],
+      "year": "2020"
     },
-    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f58bfadf-e804-5a97-95d9-2d952db668d7/default.mpd",
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/51d70f2d-3df4-51e6-85e6-4f9621261de3/default_primary.mpd",
     "drm": "clearkey",
-    "drmkey": "57531a71bdd9621d812406d9e1a68a10:4142d81978e30ab93d0a3a01c37ab396" 
+    "drmkey": "ac97c8f3f1a7a00a0eedcce5146f4a10:1f52b2fd3854120e99c763dc433bb232" 
   }
 ]
