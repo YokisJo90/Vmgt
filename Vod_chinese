@@ -1,56 +1,59 @@
 [
   {
-    "name": "Kampong Pisang Berbuah Dua Kali",
-    "category": "VOD Malay",
+    "name": "The Karate Kid",
+    "category": "VOD Chinese",
     "info": {
-      "poster": "https://is.gd/MgYoCK",
-      "bg": "https://is.gd/MgYoCK",
-      "plot": "Seorang nelayan bernama Cik Gerhana, yang juga adik kepada Cik Purnama, jatuh cinta dengan seorang gadis yang ditemuinya dalam satu upacara perayaan di Kampong Pisang. Pada masa yang sama, misteri masih berlegar di sekitar Kampong Pisang mengenai kemunculan Hantu Kum Kum yang menyasarkan bayi yang baru lahir. Keadaan menjadi lebih rumit apabila roh bekas penghibur Mak Yong bernama Cik Mek meninggal dunia muda dan berusaha untuk membalas dendam kematiannya di Kampong Pisang.",
-      "backdrop": "https://is.gd/MgYoCK",
+      "poster": "https://is.gd/oje1QP",
+      "bg": "https://is.gd/oje1QP",
+      "plot": "Dre Parker yang berusia 12 tahun telah berpindah ke China, dan mendapati dirinya seperti ikan keluar dari air. Dia berkawan dengan rakan sekelas, Mei Ying, hanya untuk membuat saingan, Cheng, yang mula membuli dan menyerang Dre. Tidak lama kemudian, Encik Han, pekerja penyelenggaraan apartmen Dre, menangkis Cheng dan rakan-rakannya apabila mereka menyerang Dre dan menandatangani Dre untuk bertarung dalam kejohanan Kung Fu sebagai balasan kepada pembuli yang memberhentikan Dre. Dre menyedari Encik Han lebih daripada seorang penyenggaraan, apabila dia didedahkan sebagai mahir Kung Fu dan Dre tidak lama kemudian mengetahui bahawa Kung Fu adalah mengenai pertahanan diri dan keamanan, bukannya keganasan dan pertumpahan darah.",
+      "backdrop": "https://is.gd/oje1QP",
       "director": [
-        "Amin Khalid"
+        "Harald Zwart"
       ],
       "cast": [
-        "Bell Ngasri",
-        "Eina Azman",
-        "Joey Daud",
-        "Mat London",
-        "Aziz M. Osman",
-        "Kazar Saisi"
+        "Jackie Chan",
+        "Jaden Smith",
+        "Taraji P. Henson",
+        "Wenwen Han",
+        "Rongguang Yu",
+        "Zhensu Wu"
       ],
-      "country": [ "Malaysia" ],
-      "year": "2013"
+      "country": [ "United States","China" ],
+      "year": "2010"
     },
-    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c2b26fe8-5577-5d61-b9e6-9126e3c062e0/default.mpd",
+    "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62578cd4d940521074a12ba2_hbovodhd/dash0/MYS_DOLBY_index.mpd",
     "drm": "clearkey",
-    "drmkey": "6ab5bc0460b9ebb6b9dbcfcef6c12710:bb9651b2f15c8c09a9c04d17cca80536"
+    "drmkey": "0c99ea12e011fe147b7f3300b4769d8c:54eb83536f4bffcdde6f88f30ab6c2b0"
   },
   {
-    "name": "Namatai: From Kinabalu With Love",
-    "category": "VOD Malay",
+    "name": "Shaolin Soccer",
+    "category": "VOD Chinese",
     "info": {
-      "poster": "https://is.gd/qE19Pw",
-      "bg": "https://is.gd/qE19Pw",
-      "plot": "Filem ini mengisahkan cinta dan pengorbanan semasa era Pendudukan Jepun antara seorang pegawai Inggeris dan seorang gadis tempatan di Sabah. Selepas dia diselamatkan oleh gadis tempatan bernama Onduri daripada tentera Jepun yang memburu dan ingin membunuhnya, lelaki Inggeris itu kembali ke England untuk berkahwin dengan teman wanitanya. Tetapi dia telah berkahwin dengan lelaki lain. Dengan rasa kecewa, dia pulang ke Sabah untuk mencari Onduri. Dilengkapi dengan rantai Dalai dan bantuan seorang wartawan, adakah dia akan menemui Onduri?",
-      "backdrop": "https://is.gd/qE19Pw",
+      "poster": "https://is.gd/z885zY",
+      "bg": "https://is.gd/z885zY",
+      "plot": "Seorang pengikut Shaolin muda bersatu semula dengan saudara-saudaranya yang tidak digalakkan untuk membentuk pasukan bola sepak menggunakan kemahiran seni mempertahankan diri mereka untuk kelebihan mereka.",
+      "backdrop": "https://is.gd/z885zY",
       "director": [
-        "Marlin Brando Malalin"
+        "Stephen Chow"
       ],
       "cast": [
-        "Enn Xaviera",
-        "Yusri John",
-        "Wan Wala"        
+        "Stephen Chow",
+        "Wei Zhao",
+        "Yat-Fei Wong",
+        "Man-Tat Ng",
+        "Yin Tse",
+        "Hui Li"       
       ],
-      "country": [ "Malaysia" ],
-      "year": "2023"
+      "country": [ "Hong Kong","China" ],
+      "year": "2001"
     },
-    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9ba6c0d4-858b-5a55-9136-071dbfc2d7b8/default.mpd",
-    "drm": "clearkey",
-    "drmkey": "16df2e3fd7834d8e99fb2ddd2676ff10:ab8f1ba33621df7689a3a32ba415f1b9" 
+    "video": "https://cutt.ly/jstoreshaolinsoccer",
+    "drm": "",
+    "drmkey": "" 
   },
   {
     "name": "Hantu Gangster",
-    "category": "VOD Malay",
+    "category": "VOD Chinese",
     "info": {
       "poster": "https://is.gd/tWiNmi",
       "bg": "https://is.gd/tWiNmi",
