@@ -345,53 +345,5 @@
     "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/055e60e8-708b-5ce9-9aba-2bdebda970ed/default_primary.mpd",
     "drm": "clearkey",
     "drmkey": "6ad8f3bfb686ca421c20ada961681410:26c92f2e4b0ed6119370268e1dc837cf"
-  },
-  {
-    "name": "Crawl",
-    "category": "VOD English",
-    "info": {
-      "poster": "https://is.gd/NeXGZe",
-      "bg": "https://is.gd/NeXGZe",
-      "plot": "Seorang wanita muda, semasa cuba menyelamatkan bapanya semasa taufan kategori 5, mendapati dirinya terperangkap dalam rumah yang dilanda banjir dan mesti bertarung untuk nyawanya menentang buaya.",
-      "backdrop": "https://is.gd/NeXGZe",
-      "director": [
-        "Alexandre Aja"
-      ],
-      "cast": [
-        "Kaya Scodelario",
-        "Barry Pepper",
-        "Ross Anderson",
-        "Morfydd Clark"
-      ],
-      "year": "2019",
-      "country": [ "United States" ]
-    },
-    "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/1ce962a3-d3ac-5cb4-99dc-eb6b5d6fb802/default.mpd",
-    "drm": "clearkey",
-    "drmkey": "42abdcade5de236594fe7ecc76732b10:174696ef538f713287f4f819936cefbb"
-    },
-    {
-    "name": "Bumblebee",
-    "category": "VOD English",
-    "info": {
-      "poster": "https://is.gd/n0QAEB",
-      "bg": "https://is.gd/n0QAEB",
-      "plot": "Dalam pelarian pada tahun 1987, Bumblebee mencari perlindungan di tempat barang rongsokan di sebuah bandar pantai California yang kecil. Menjelang usia 18 tahun dan cuba mencari tempatnya di dunia, Charlie Watson menemui Bumblebee, berparut dan patah.",
-      "backdrop": "https://is.gd/n0QAEB",
-      "director": [
-        "Travis Knight"
-      ],
-      "cast": [
-        "Hailee Steinfeld",
-        "Jorge Lendeborg Jr",
-        "John Cena",
-        "Jason Drucker"
-      ],
-      "year": "2018",
-      "country": [ "United States","China" ]
-    },
-    "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/993bad66-4e5e-555a-8039-ed5decb06ffc/default.mpd",
-    "drm": "clearkey",
-    "drmkey": "c34946142bba3fbab991e1d91ee25b10:52acefd8292b52fce7c7a1eec7ac7b8c"
   }
 ]
