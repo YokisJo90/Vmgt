@@ -300,5 +300,28 @@
     "video": "https:\/\/vodejitp-asset-playback-b.astro.com.my\/v3\/default\/dash-wv\/vode\/6ea32fba-d7ed-53b9-89d0-9be3631473e4\/default.mpd",
     "drm": "clearkey",
     "drmkey": "f307e09a504d8759af84ee708f07f210:3ecfaea26f9cbfec551e1a1efc9e75fd"
+   },
+   {
+    "name": "Escape Room",
+    "category": "VOD English",
+    "info": {
+      "poster": "https://is.gd/dnyMLW",
+      "bg": "https://is.gd/dnyMLW",
+      "plot": "Enam orang yang tidak dikenali diberi kotak hitam misteri dengan tiket ke bilik melarikan diri yang mengasyikkan untuk peluang memenangi banyak wang. Dikunci dalam beberapa bilik dengan keadaan yang melampau, mereka menemui rahsia di sebalik bilik melarikan diri dan mesti berjuang untuk bertahan dan mencari jalan keluar.",
+      "backdrop": "https://is.gd/dnyMLW",
+      "director": [
+        "Adam Robitel"
+      ],
+      "cast": [
+        "Taylor Russell",
+        "Logan Miller",
+        "Jay Ellis" 
+      ],
+      "year": "2019",
+      "country": [ "United States","South Africa" ]
+    },
+    "video": "https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/dcbbc1de-1f49-5cf4-b40b-a98f71594489/default_primary.mpd",
+    "drm": "clearkey",
+    "drmkey": "01f562e70ecdde6da285f1c5708f2910:eba5d518818fea6cd0e9be8daed05b39"
   }
 ]
